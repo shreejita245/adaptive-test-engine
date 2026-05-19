@@ -18,7 +18,7 @@ export default function App() {
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       if (session) {
-        fetch(`http://adaptive-test-engine-production.up.railway.app/students/email/${session.user.email}`)
+        fetch(`https://adaptive-test-engine-production.up.railway.app/students/email/${session.user.email}`)
           .then(r => r.json())
           .then(student => {
             if (student.id) {
