@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react"
 import { supabase } from "./supabase"
+import { API } from "./api"
 import Login from "./components/Login"
 import TestConfig from "./components/TestConfig"
 import Test from "./components/Test"
@@ -18,7 +19,7 @@ export default function App() {
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       if (session) {
-        fetch(`https://adaptive-test-engine-production.up.railway.app/students/email/${session.user.email}`)
+        fetch(`${API}/students/email/${session.user.email}`)
           .then(r => r.json())
           .then(student => {
             if (student.id) {

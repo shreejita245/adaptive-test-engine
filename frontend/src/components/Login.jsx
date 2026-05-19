@@ -1,5 +1,6 @@
 import { useState } from "react"
 import { supabase } from "../supabase"
+import { API } from "../api"
 
 export default function Login({ onLogin }) {
   const [mode, setMode] = useState("login")
@@ -21,7 +22,7 @@ export default function Login({ onLogin }) {
           email, password, options: { data: { name } }
         })
         if (error) throw error
-        const res = await fetch("https://adaptive-test-engine-production.up.railway.app", {
+        const res = await fetch(`${API}/students/`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ name, email })
@@ -31,7 +32,7 @@ export default function Login({ onLogin }) {
       } else {
         const { data, error } = await supabase.auth.signInWithPassword({ email, password })
         if (error) throw error
-        const res = await fetch(`"https://adaptive-test-engine-production.up.railway.app"/students/email/${email}`)
+        const res = await fetch(`${API}/students/email/${email}`)
         const student = await res.json()
         onLogin({ ...student, authUser: data.user })
       }

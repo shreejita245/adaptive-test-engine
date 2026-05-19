@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react"
 import axios from "axios"
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts"
-
-const API = "http://127.0.0.1:8000"
+import { API } from "../api"
 
 export default function Dashboard({ student, scoreData, onRetry, onViewExplanations, onViewHistory }) {
   const [data, setData] = useState(null)

@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react"
 import axios from "axios"
-
-const API = "http://127.0.0.1:8000"
+import { API } from "../api"
 
 const RANK_STYLES = [
   { bg: "linear-gradient(135deg, #f59e0b, #d97706)", shadow: "rgba(245,158,11,0.4)", medal: "🥇", label: "1st" },

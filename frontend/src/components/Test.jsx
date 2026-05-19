@@ -1,8 +1,7 @@
 import { useState, useEffect, useRef } from "react"
 import axios from "axios"
 import MathRenderer from "./MathRenderer"
-
-const API = "http://127.0.0.1:8000"
+import { API } from "../api"
 
 const STATUS = {
   NOT_VISITED: "not_visited",
