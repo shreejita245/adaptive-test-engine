@@ -1,4 +1,4 @@
-# Adaptive Mock Test Engine for JEE/NEET Preparation
+﻿# Adaptive Mock Test Engine for JEE/NEET Preparation
 
 An intelligent exam-preparation platform that adapts to each student's knowledge level in real time, powered by Bayesian Knowledge Tracing and AI-generated explanations.
 
