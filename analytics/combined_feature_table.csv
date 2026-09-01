@@ -1,0 +1,1854 @@
+student_id,topic,subject,difficulty,current_mastery,attempt_number,is_correct,is_synthetic,archetype
+1,quadratic equations,math,0.4,0.3,1,1,False,real
+1,quadratic equations,math,0.4,0.6853932584269663,2,1,False,real
+1,quadratic equations,math,0.4,0.9095315024232634,3,0,False,real
+1,quadratic equations,math,0.4,0.6581892166836218,4,0,False,real
+1,quadratic equations,math,0.4,0.3634354278497002,5,0,False,real
+1,quadratic equations,math,0.4,0.2565914817773954,6,0,False,real
+1,quadratic equations,math,0.4,0.2351967964592444,7,0,False,real
+2,quadratic equations,math,0.4,0.3,1,1,False,real
+3,quadratic equations,math,0.4,0.3,1,0,False,real
+4,quadratic equations,math,0.4,0.3,1,0,False,real
+5,quadratic equations,math,0.4,0.3,1,0,False,real
+6,quadratic equations,math,0.4,0.3,1,0,False,real
+7,quadratic equations,math,0.4,0.3,1,1,False,real
+7,quadratic equations,math,0.55,0.6853932584269663,2,1,False,real
+8,quadratic equations,math,0.4,0.3,1,1,False,real
+8,quadratic equations,math,0.55,0.6853932584269663,2,1,False,real
+8,quadratic equations,math,0.85,0.9095315024232634,3,0,False,real
+8,quadratic equations,math,0.55,0.6581892166836218,4,0,False,real
+8,quadratic equations,math,0.25,0.3634354278497002,5,0,False,real
+8,quadratic equations,math,0.25,0.2565914817773954,6,0,False,real
+9,quadratic equations,math,0.25,0.3,1,0,False,real
+9,quadratic equations,math,0.4,0.2432432432432432,2,1,False,real
+9,quadratic equations,math,0.55,0.6291390728476821,3,1,False,real
+9,quadratic equations,math,0.85,0.8874371859296482,4,0,False,real
+9,quadratic equations,math,0.55,0.6099825885084154,5,1,False,real
+10,life processes,science,0.25,0.3,1,0,False,real
+10,life processes,science,0.25,0.2432432432432432,2,1,False,real
+10,life processes,science,0.55,0.6291390728476821,3,0,False,real
+10,life processes,science,0.25,0.3475728155339806,4,1,False,real
+10,life processes,science,0.85,0.7258261933904528,5,1,False,real
+11,quadratic equations,mathematics,0.4,0.3,1,0,False,real
+11,quadratic equations,mathematics,0.6,0.2432432432432432,2,0,False,real
+12,coordinate geometry,mathematics,0.5,0.3,1,0,False,real
+13,laws of motion,physics,0.3,0.3,1,0,False,real
+13,laws of motion,physics,0.4,0.2432432432432432,2,1,False,real
+13,laws of motion,physics,0.5,0.6291390728476821,3,1,False,real
+13,laws of motion,physics,0.6,0.8874371859296482,4,0,False,real
+16,cell biology,biology,0.3,0.3,1,0,False,real
+16,cell biology,biology,0.3,0.2432432432432432,2,0,False,real
+16,cell biology,biology,0.5,0.2328767123287671,3,1,False,real
+16,cell biology,biology,0.5,0.6177474402730375,4,0,False,real
+16,cell biology,biology,0.7,0.3418217433888345,5,1,False,real
+16,cell biology,biology,0.5,0.7212196639701307,6,1,False,real
+16,cell biology,biology,0.5,0.9224309583585836,7,0,False,real
+16,cell biology,biology,0.5,0.690589928057554,8,0,False,real
+16,cell biology,biology,0.5,0.3834744547869799,9,0,False,real
+16,cell biology,biology,0.5,0.2612650439150632,10,1,False,real
+17,complex numbers,mathematics,0.4,0.3,1,0,False,real
+17,complex numbers,mathematics,0.6,0.2432432432432432,2,1,False,real
+18,trigonometry,mathematics,0.3,0.3,1,0,False,real
+18,trigonometry,mathematics,0.3,0.2432432432432432,2,0,False,real
+18,trigonometry,mathematics,0.3,0.2328767123287671,3,0,False,real
+18,trigonometry,mathematics,0.3,0.2311212814645309,4,1,False,real
+18,trigonometry,mathematics,0.4,0.6157804459691253,5,0,False,real
+18,trigonometry,mathematics,0.3,0.3408533594899461,6,0,False,real
+18,trigonometry,mathematics,0.3,0.2516009280742459,7,1,False,real
+18,trigonometry,mathematics,0.5,0.6380529186023025,8,1,False,real
+18,trigonometry,mathematics,0.9,0.8911002400413235,9,0,False,real
+18,trigonometry,mathematics,0.6,0.6174142010781574,10,0,False,real
+20,quadratic equations,mathematics,0.3,0.3,1,0,False,real
+20,quadratic equations,mathematics,0.4,0.2432432432432432,2,1,False,real
+20,quadratic equations,mathematics,0.6,0.6291390728476821,3,0,False,real
+20,quadratic equations,mathematics,0.6,0.3475728155339806,4,1,False,real
+20,quadratic equations,mathematics,0.9,0.7258261933904528,5,0,False,real
+21,indefinite integration,mathematics,0.5,0.3,1,0,False,real
+21,indefinite integration,mathematics,0.5,0.2432432432432432,2,1,False,real
+21,indefinite integration,mathematics,0.5,0.6291390728476821,3,0,False,real
+21,indefinite integration,mathematics,0.5,0.3475728155339806,4,1,False,real
+21,indefinite integration,mathematics,0.5,0.7258261933904528,5,1,False,real
+21,indefinite integration,mathematics,0.5,0.9240291673732406,6,1,False,real
+21,indefinite integration,mathematics,0.5,0.9821375171946332,7,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.3,8,1,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.6853932584269663,9,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.3800738007380074,10,1,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.7505567928730512,11,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.4290569243840272,12,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.272858431018936,13,1,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.6597037599696165,14,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.3643135863781483,15,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.2567913181723923,16,0,False,real
+21,haloalkanes and haloarenes,chemistry,0.5,0.235232055005631,17,0,False,real
+22,rotational motion,physics,0.3,0.3,1,0,False,real
+22,rotational motion,physics,0.3,0.2432432432432432,2,0,False,real
+22,rotational motion,physics,0.3,0.2328767123287671,3,0,False,real
+22,rotational motion,physics,0.3,0.2311212814645309,4,0,False,real
+22,rotational motion,physics,0.3,0.230827928271652,5,0,False,real
+22,rotational motion,physics,0.3,0.230779014308426,6,1,False,real
+22,rotational motion,physics,0.6,0.6153956216912291,7,1,False,real
+22,rotational motion,physics,0.9,0.8816614937594929,8,0,False,real
+22,rotational motion,physics,0.6,0.5986711955507448,9,0,False,real
+22,rotational motion,physics,0.3,0.3327196185314288,10,0,False,real
+22,circles,mathematics,0.5,0.3,11,0,False,real
+22,circles,mathematics,0.5,0.2432432432432432,12,0,False,real
+22,circles,mathematics,0.5,0.2328767123287671,13,0,False,real
+22,circles,mathematics,0.5,0.2311212814645309,14,0,False,real
+22,3d geometry,mathematics,0.3,0.3,15,0,False,real
+22,3d geometry,mathematics,0.3,0.2432432432432432,16,0,False,real
+23,electromagnetic induction,physics,0.3,0.3,1,0,False,real
+24,optics,physics,0.3,0.3,1,0,False,real
+24,optics,physics,0.3,0.2432432432432432,2,0,False,real
+25,simple harmonic motion,physics,0.5,0.3,1,0,False,real
+25,simple harmonic motion,physics,0.5,0.2432432432432432,2,0,False,real
+25,simple harmonic motion,physics,0.5,0.2328767123287671,3,0,False,real
+25,simple harmonic motion,physics,0.5,0.2311212814645309,4,1,False,real
+25,simple harmonic motion,physics,0.5,0.6157804459691253,5,0,False,real
+25,simple harmonic motion,physics,0.5,0.3408533594899461,6,0,False,real
+25,matrices and determinants,mathematics,0.5,0.3,7,1,False,real
+25,3d geometry,mathematics,0.3,0.3,8,0,False,real
+25,3d geometry,mathematics,0.3,0.2432432432432432,9,1,False,real
+25,3d geometry,mathematics,0.6,0.6291390728476821,10,0,False,real
+25,3d geometry,mathematics,0.3,0.3475728155339806,11,0,False,real
+25,3d geometry,mathematics,0.3,0.2530566876620971,12,0,False,real
+25,3d geometry,mathematics,0.3,0.2345757134721255,13,1,False,real
+25,3d geometry,mathematics,0.6,0.6196405829913684,14,0,False,real
+25,3d geometry,mathematics,0.3,0.3427605036880068,15,0,False,real
+25,3d geometry,mathematics,0.3,0.2520116563990384,16,1,False,real
+25,3d geometry,mathematics,0.6,0.638484945278483,17,0,False,real
+26,waves,physics,0.3,0.3,1,0,False,real
+26,waves,physics,0.3,0.2432432432432432,2,1,False,real
+26,waves,physics,0.4,0.6291390728476821,3,1,False,real
+26,waves,physics,0.6,0.8874371859296482,4,0,False,real
+26,waves,physics,0.6,0.6099825885084154,5,1,False,real
+26,waves,physics,0.6,0.8793428494478858,6,0,False,real
+26,waves,physics,0.6,0.5942641509433961,7,0,False,real
+26,waves,physics,0.3,0.3307050670207909,8,1,False,real
+26,waves,physics,0.3,0.7121053899911639,9,1,False,real
+26,waves,physics,0.3,0.9192292523522452,10,0,False,real
+27,magnetism,physics,0.3,0.3,1,0,False,real
+27,magnetism,physics,0.3,0.2432432432432432,2,1,False,real
+27,magnetism,physics,0.6,0.6291390728476821,3,0,False,real
+27,magnetism,physics,0.3,0.3475728155339806,4,0,False,real
+27,magnetism,physics,0.3,0.2530566876620971,5,0,False,real
+27,magnetism,physics,0.3,0.2345757134721255,6,0,False,real
+27,magnetism,physics,0.3,0.2314062715113262,7,0,False,real
+27,magnetism,physics,0.3,0.2308754775500688,8,0,False,real
+27,magnetism,physics,0.3,0.2307869406044511,9,0,False,real
+27,magnetism,physics,0.3,0.2307721824650644,10,1,False,real
+29,3d geometry,mathematics,0.3,0.3,1,0,False,real
+29,3d geometry,mathematics,0.3,0.2432432432432432,2,0,False,real
+29,3d geometry,mathematics,0.3,0.2328767123287671,3,1,False,real
+29,3d geometry,mathematics,0.6,0.6177474402730375,4,0,False,real
+29,3d geometry,mathematics,0.3,0.3418217433888345,5,0,False,real
+29,3d geometry,mathematics,0.3,0.2518092410465763,6,1,False,real
+29,3d geometry,mathematics,0.6,0.6382721033508277,7,0,False,real
+29,3d geometry,mathematics,0.3,0.3523671846765451,8,0,False,real
+29,3d geometry,mathematics,0.3,0.2541103017689907,9,0,False,real
+29,3d geometry,mathematics,0.3,0.2347603288139212,10,1,False,real
+29,anatomy of flowering plants,biology,0.5,0.3,11,1,False,real
+29,anatomy of flowering plants,biology,0.5,0.6853932584269663,12,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.3800738007380074,13,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.260454878943507,14,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.2358812381554011,15,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.2316259766658903,16,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.2309121544053493,17,1,False,real
+29,anatomy of flowering plants,biology,0.5,0.6155453671405074,18,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.340738099725898,19,0,False,real
+29,anatomy of flowering plants,biology,0.5,0.2515761671242024,20,1,False,real
+29,quadratic equations,mathematics,0.3,0.3,21,1,False,real
+29,quadratic equations,mathematics,0.3,0.6853932584269663,22,1,False,real
+29,quadratic equations,mathematics,0.3,0.9095315024232634,23,0,False,real
+29,quadratic equations,mathematics,0.3,0.6581892166836218,24,0,False,real
+29,quadratic equations,mathematics,0.3,0.3634354278497002,25,0,False,real
+29,quadratic equations,mathematics,0.3,0.2565914817773954,26,1,False,real
+29,sets and relations,mathematics,0.5,0.3,27,0,False,real
+29,sets and relations,mathematics,0.5,0.2432432432432432,28,0,False,real
+29,sets and relations,mathematics,0.5,0.2328767123287671,29,0,False,real
+29,sets and relations,mathematics,0.5,0.2311212814645309,30,0,False,real
+29,sets and relations,mathematics,0.5,0.230827928271652,31,0,False,real
+29,sets and relations,mathematics,0.5,0.230779014308426,32,0,False,real
+29,sets and relations,mathematics,0.5,0.2307708613763792,33,0,False,real
+29,trigonometry,mathematics,0.3,0.3,34,0,False,real
+29,trigonometry,mathematics,0.3,0.2432432432432432,35,0,False,real
+29,trigonometry,mathematics,0.3,0.2328767123287671,36,0,False,real
+29,trigonometry,mathematics,0.3,0.2311212814645309,37,0,False,real
+29,trigonometry,mathematics,0.3,0.230827928271652,38,0,False,real
+29,trigonometry,mathematics,0.3,0.230779014308426,39,0,False,real
+29,trigonometry,mathematics,0.3,0.2307708613763792,40,0,False,real
+29,trigonometry,mathematics,0.3,0.2307695025375689,41,0,False,real
+29,trigonometry,mathematics,0.3,0.2307692760639671,42,1,False,real
+29,trigonometry,mathematics,0.3,0.61538466634119,43,0,False,real
+30,vector algebra,mathematics,0.3,0.3,1,0,False,real
+30,vector algebra,mathematics,0.3,0.2432432432432432,2,0,False,real
+30,vector algebra,mathematics,0.3,0.2328767123287671,3,0,False,real
+30,vector algebra,mathematics,0.3,0.2311212814645309,4,0,False,real
+30,vector algebra,mathematics,0.3,0.230827928271652,5,0,False,real
+30,vector algebra,mathematics,0.3,0.230779014308426,6,1,False,real
+30,vector algebra,mathematics,0.3,0.6153956216912291,7,0,False,real
+30,vector algebra,mathematics,0.3,0.340664731613589,8,1,False,real
+30,quadratic equations,mathematics,0.3,0.3,9,1,False,real
+30,quadratic equations,mathematics,0.4,0.6853932584269663,10,0,False,real
+30,quadratic equations,mathematics,0.6,0.3800738007380074,11,1,False,real
+30,quadratic equations,mathematics,0.9,0.7505567928730512,12,0,False,real
+30,quadratic equations,mathematics,0.6,0.4290569243840272,13,1,False,real
+30,quadratic equations,mathematics,0.6,0.7840963855421687,14,1,False,real
+30,quadratic equations,mathematics,0.5,0.9431580282941064,15,0,False,real
+30,quadratic equations,mathematics,0.5,0.7509612266641961,16,1,False,real
+30,quadratic equations,mathematics,0.5,0.9325212283245156,17,0,False,real
+30,quadratic equations,mathematics,0.5,0.7185671844939733,18,1,False,real
+30,quadratic equations,mathematics,0.5,0.9215046404029896,19,1,False,real
+30,trigonometry,mathematics,0.3,0.3,20,0,False,real
+30,trigonometry,mathematics,0.3,0.2432432432432432,21,0,False,real
+30,trigonometry,mathematics,0.3,0.2328767123287671,22,0,False,real
+30,trigonometry,mathematics,0.3,0.2311212814645309,23,0,False,real
+30,trigonometry,mathematics,0.3,0.230827928271652,24,0,False,real
+30,trigonometry,mathematics,0.3,0.230779014308426,25,0,False,real
+30,trigonometry,mathematics,0.3,0.2307708613763792,26,0,False,real
+30,trigonometry,mathematics,0.3,0.2307695025375689,27,1,False,real
+30,trigonometry,mathematics,0.3,0.6153849211238608,28,0,False,real
+30,trigonometry,mathematics,0.3,0.3406594904092601,29,0,False,real
+30,trigonometry,mathematics,0.3,0.2515592837188458,30,1,False,real
+30,trigonometry,mathematics,0.3,0.6380090836272598,31,0,False,real
+30,trigonometry,mathematics,0.4,0.3522267387154803,32,1,False,real
+30,trigonometry,mathematics,0.6,0.7295012821403161,33,0,False,real
+30,trigonometry,mathematics,0.5,0.4115844426859024,34,0,False,real
+30,trigonometry,mathematics,0.6,0.2682462075444095,35,0,False,real
+30,trigonometry,mathematics,0.6,0.2372797197984141,36,0,False,real
+30,trigonometry,mathematics,0.9,0.231862019747302,37,0,False,real
+30,trigonometry,mathematics,0.6,0.2309515781383707,38,0,False,real
+30,trigonometry,mathematics,0.6,0.2307996280021808,39,1,False,real
+30,trigonometry,mathematics,0.6,0.6154188105825952,40,0,False,real
+30,trigonometry,mathematics,0.6,0.3406760903914368,41,1,False,real
+30,trigonometry,mathematics,0.6,0.7202932858651547,42,0,False,real
+30,trigonometry,mathematics,0.6,0.404476749860031,43,0,False,real
+30,trigonometry,mathematics,0.6,0.2664315270467711,44,1,False,real
+30,trigonometry,mathematics,0.6,0.6533070470804577,45,0,False,real
+30,complex numbers,mathematics,0.3,0.3,46,0,False,real
+30,complex numbers,mathematics,0.3,0.2432432432432432,47,0,False,real
+30,complex numbers,mathematics,0.3,0.2328767123287671,48,0,False,real
+30,complex numbers,mathematics,0.3,0.2311212814645309,49,0,False,real
+30,complex numbers,mathematics,0.3,0.230827928271652,50,1,False,real
+30,complex numbers,mathematics,0.3,0.6154506437768241,51,0,False,real
+30,complex numbers,mathematics,0.3,0.340691685062546,52,0,False,real
+30,complex numbers,mathematics,0.3,0.2515661979674231,53,1,False,real
+30,complex numbers,mathematics,0.3,0.638016361983638,54,0,False,real
+30,sequence and series,mathematics,0.5,0.3,55,0,False,real
+30,sequence and series,mathematics,0.5,0.2432432432432432,56,0,False,real
+30,sequence and series,mathematics,0.5,0.2328767123287671,57,0,False,real
+30,sequence and series,mathematics,0.5,0.2311212814645309,58,0,False,real
+30,sequence and series,mathematics,0.5,0.230827928271652,59,0,False,real
+30,sequence and series,mathematics,0.5,0.230779014308426,60,1,False,real
+31,units and dimensions,physics,0.5,0.3,1,1,False,real
+31,quadratic equations,mathematics,0.3,0.3,2,1,False,real
+31,quadratic equations,math,0.4,0.6853932584269663,3,1,False,real
+31,quadratic equations,mathematics,0.9,0.9095315024232634,4,0,False,real
+32,differential equations,mathematics,0.5,0.3,1,0,False,real
+32,differential equations,mathematics,0.5,0.2432432432432432,2,0,False,real
+32,differential equations,mathematics,0.5,0.2328767123287671,3,0,False,real
+32,differential equations,mathematics,0.5,0.2311212814645309,4,0,False,real
+32,differential equations,mathematics,0.5,0.230827928271652,5,0,False,real
+32,differential equations,mathematics,0.5,0.230779014308426,6,0,False,real
+32,differential equations,mathematics,0.5,0.2307708613763792,7,0,False,real
+32,differential equations,mathematics,0.5,0.2307695025375689,8,0,False,real
+32,differential equations,mathematics,0.5,0.2307692760639671,9,0,False,real
+32,quadratic equations,mathematics,0.3,0.3,10,0,False,real
+32,trigonometry,mathematics,0.3,0.3,11,0,False,real
+32,calculus,mathematics,0.3,0.3,12,0,False,real
+32,atoms and nuclei,physics,0.3,0.3,13,0,False,real
+32,probability,mathematics,0.3,0.3,14,1,False,real
+32,atoms and nuclei,physics,0.3,0.2432432432432432,15,0,False,real
+32,atoms and nuclei,physics,0.3,0.2328767123287671,16,0,False,real
+32,thermodynamics,physics,0.3,0.3,17,1,False,real
+32,modern physics,physics,0.3,0.3,18,0,False,real
+32,equilibrium,chemistry,0.3,0.3,19,1,False,real
+32,hydrogen,chemistry,0.3,0.3,20,0,False,real
+32,organic chemistry,chemistry,0.3,0.3,21,0,False,real
+34,application of derivatives,mathematics,0.3,0.3,1,0,False,real
+34,application of derivatives,mathematics,0.3,0.2432432432432432,2,0,False,real
+34,application of derivatives,mathematics,0.3,0.2328767123287671,3,0,False,real
+35,ecosystem,biology,0.5,0.3,1,1,False,real
+35,ecosystem,biology,0.5,0.6853932584269663,2,1,False,real
+35,ecosystem,biology,0.5,0.9095315024232634,3,1,False,real
+35,ecosystem,biology,0.5,0.978490493566353,4,1,False,real
+35,ecosystem,biology,0.5,0.9951446840793324,5,1,False,real
+35,ecosystem,biology,0.5,0.998917244096201,6,1,False,real
+35,ecosystem,biology,0.5,0.9997591992730828,7,1,False,real
+35,ecosystem,biology,0.5,0.9999464794195,8,1,False,real
+35,ecosystem,biology,0.5,0.999988106077922,9,0,False,real
+35,ecosystem,biology,0.5,0.9999286419842554,10,1,False,real
+1000,complex numbers,mathematics,0.3,0.4,1,0,True,strong
+1000,magnetic effects of current,physics,0.6,0.4,2,0,True,strong
+1000,application of derivatives,mathematics,0.6,0.4,3,1,True,strong
+1000,statistics,mathematics,0.6,0.4,4,0,True,strong
+1000,dual nature of radiation,physics,0.6,0.4,5,1,True,strong
+1000,amines,chemistry,0.6,0.4,6,0,True,strong
+1000,organic chemistry,chemistry,0.3,0.4,7,0,True,strong
+1000,electrochemistry,chemistry,0.3,0.4,8,1,True,strong
+1000,solutions,chemistry,0.3,0.4,9,1,True,strong
+1000,electrostatics,physics,0.3,0.4,10,1,True,strong
+1000,complex numbers,mathematics,0.6,0.377659574468085,11,0,True,strong
+1000,calculus,mathematics,0.6,0.4,12,1,True,strong
+1000,matrices,mathematics,0.6,0.4,13,1,True,strong
+1000,gravitation,physics,0.3,0.4,14,1,True,strong
+1000,solid state,chemistry,0.6,0.4,15,1,True,strong
+1000,dual nature of radiation,physics,0.6,0.8160377358490566,16,1,True,strong
+1000,optics,physics,0.3,0.4,17,0,True,strong
+1000,electrostatics,physics,0.6,0.8160377358490566,18,1,True,strong
+1000,atoms and nuclei,physics,0.3,0.4,19,1,True,strong
+1000,organic chemistry,chemistry,0.3,0.377659574468085,20,0,True,strong
+1000,3d geometry,mathematics,0.6,0.4,21,1,True,strong
+1000,3d geometry,mathematics,0.6,0.8160377358490566,22,1,True,strong
+1000,hydrogen,chemistry,0.3,0.4,23,0,True,strong
+1000,complex numbers,mathematics,0.6,0.3752738225629791,24,1,True,strong
+1000,chemical bonding,chemistry,0.6,0.4,25,0,True,strong
+1000,definite integration,mathematics,0.6,0.4,26,0,True,strong
+1000,organic chemistry,chemistry,0.3,0.3752738225629791,27,1,True,strong
+1000,coordinate geometry,mathematics,0.6,0.4,28,0,True,strong
+1000,current electricity,physics,0.6,0.4,29,1,True,strong
+1000,complex numbers,mathematics,0.6,0.8019901460731167,30,1,True,strong
+1000,kinetic theory of gases,physics,0.6,0.4,31,0,True,strong
+1000,magnetism,physics,0.3,0.4,32,0,True,strong
+1000,biomolecules,chemistry,0.6,0.4,33,1,True,strong
+1000,electrostatics,physics,0.6,0.9635985066053993,34,1,True,strong
+1000,chemical bonding,chemistry,0.6,0.377659574468085,35,0,True,strong
+1001,coordinate geometry,mathematics,0.6,0.4,1,0,True,strong
+1001,application of derivatives,mathematics,0.6,0.4,2,1,True,strong
+1001,p block elements,chemistry,0.3,0.4,3,0,True,strong
+1001,metallurgy,chemistry,0.3,0.4,4,1,True,strong
+1001,3d geometry,mathematics,0.6,0.4,5,0,True,strong
+1001,p block elements,chemistry,0.3,0.377659574468085,6,0,True,strong
+1001,s block elements,chemistry,0.6,0.4,7,1,True,strong
+1001,dual nature of radiation,physics,0.3,0.4,8,1,True,strong
+1001,metallurgy,chemistry,0.3,0.8160377358490566,9,1,True,strong
+1001,biomolecules,chemistry,0.3,0.4,10,1,True,strong
+1001,aldehydes and ketones,chemistry,0.3,0.4,11,1,True,strong
+1001,laws of motion,physics,0.3,0.4,12,0,True,strong
+1001,calculus,mathematics,0.6,0.4,13,1,True,strong
+1001,coordinate geometry,mathematics,0.6,0.377659574468085,14,1,True,strong
+1001,complex numbers,mathematics,0.6,0.4,15,0,True,strong
+1001,magnetic effects of current,physics,0.3,0.4,16,1,True,strong
+1001,magnetic effects of current,physics,0.6,0.8160377358490566,17,1,True,strong
+1001,matrices,mathematics,0.6,0.4,18,0,True,strong
+1001,matrices,mathematics,0.6,0.377659574468085,19,1,True,strong
+1001,aldehydes and ketones,chemistry,0.6,0.8160377358490566,20,1,True,strong
+1001,matrices,mathematics,0.6,0.8033867631851085,21,0,True,strong
+1001,p block elements,chemistry,0.3,0.3752738225629791,22,0,True,strong
+1001,electromagnetic induction,physics,0.6,0.4,23,1,True,strong
+1001,biomolecules,chemistry,0.3,0.8160377358490566,24,1,True,strong
+1001,d and f block elements,chemistry,0.3,0.4,25,1,True,strong
+1001,s block elements,chemistry,0.3,0.8160377358490566,26,1,True,strong
+1001,coordination compounds,chemistry,0.6,0.4,27,0,True,strong
+1001,electrostatics,physics,0.6,0.4,28,1,True,strong
+1001,rotational motion,physics,0.6,0.4,29,1,True,strong
+1001,d and f block elements,chemistry,0.6,0.8160377358490566,30,1,True,strong
+1001,general organic chemistry,chemistry,0.3,0.4,31,1,True,strong
+1001,coordination compounds,chemistry,0.6,0.377659574468085,32,1,True,strong
+1001,aldehydes and ketones,chemistry,0.6,0.9635985066053993,33,1,True,strong
+1001,definite integration,mathematics,0.6,0.4,34,1,True,strong
+1001,calculus,mathematics,0.6,0.8160377358490566,35,1,True,strong
+1002,thermodynamics,physics,0.6,0.4,1,1,True,strong
+1002,calculus,mathematics,0.6,0.4,2,0,True,strong
+1002,equilibrium,chemistry,0.6,0.4,3,1,True,strong
+1002,organic chemistry,chemistry,0.3,0.4,4,0,True,strong
+1002,biomolecules,chemistry,0.3,0.4,5,0,True,strong
+1002,binomial theorem,mathematics,0.6,0.4,6,1,True,strong
+1002,thermodynamics,physics,0.6,0.8160377358490566,7,1,True,strong
+1002,equilibrium,chemistry,0.3,0.8160377358490566,8,0,True,strong
+1002,electrostatics,physics,0.3,0.4,9,0,True,strong
+1002,calculus,mathematics,0.6,0.377659574468085,10,1,True,strong
+1002,atomic structure,chemistry,0.6,0.4,11,1,True,strong
+1002,redox reactions,chemistry,0.3,0.4,12,1,True,strong
+1002,atoms and nuclei,physics,0.6,0.4,13,0,True,strong
+1002,coordinate geometry,mathematics,0.6,0.4,14,0,True,strong
+1002,matrices,mathematics,0.6,0.4,15,0,True,strong
+1002,binomial theorem,mathematics,0.3,0.8160377358490566,16,1,True,strong
+1002,organic chemistry,chemistry,0.3,0.377659574468085,17,0,True,strong
+1002,complex numbers,mathematics,0.6,0.4,18,0,True,strong
+1002,electrostatics,physics,0.6,0.377659574468085,19,0,True,strong
+1002,solutions,chemistry,0.3,0.4,20,1,True,strong
+1002,solutions,chemistry,0.3,0.8160377358490566,21,1,True,strong
+1002,electrostatics,physics,0.6,0.3752738225629791,22,1,True,strong
+1002,optics,physics,0.6,0.4,23,1,True,strong
+1002,thermodynamics,physics,0.3,0.9635985066053993,24,1,True,strong
+1002,hydrogen,chemistry,0.3,0.4,25,1,True,strong
+1002,organic chemistry,chemistry,0.3,0.3752738225629791,26,0,True,strong
+1002,complex numbers,mathematics,0.4,0.377659574468085,27,1,True,strong
+1002,atomic structure,chemistry,0.6,0.8160377358490566,28,1,True,strong
+1002,gravitation,physics,0.6,0.4,29,0,True,strong
+1002,organic chemistry,chemistry,0.3,0.3750280954120192,30,0,True,strong
+1002,3d geometry,mathematics,0.3,0.4,31,0,True,strong
+1002,dual nature of radiation,physics,0.6,0.4,32,1,True,strong
+1002,magnetic effects of current,physics,0.6,0.4,33,0,True,strong
+1002,periodic table,chemistry,0.6,0.4,34,0,True,strong
+1002,atomic structure,chemistry,0.6,0.9635985066053993,35,1,True,strong
+1003,dual nature of radiation,physics,0.3,0.4,1,1,True,strong
+1003,kinematics,physics,0.3,0.4,2,0,True,strong
+1003,electrostatics,physics,0.6,0.4,3,0,True,strong
+1003,sequence and series,mathematics,0.5,0.4,4,0,True,strong
+1003,alcohols phenols and ethers,chemistry,0.3,0.4,5,1,True,strong
+1003,d and f block elements,chemistry,0.6,0.4,6,0,True,strong
+1003,thermodynamics,physics,0.6,0.4,7,1,True,strong
+1003,coordinate geometry,mathematics,0.6,0.4,8,1,True,strong
+1003,general organic chemistry,chemistry,0.6,0.4,9,0,True,strong
+1003,magnetic effects of current,physics,0.6,0.4,10,0,True,strong
+1003,3d geometry,mathematics,0.6,0.4,11,1,True,strong
+1003,organic chemistry,chemistry,0.3,0.4,12,1,True,strong
+1003,gravitation,physics,0.3,0.4,13,1,True,strong
+1003,magnetic effects of current,physics,0.6,0.377659574468085,14,1,True,strong
+1003,laws of motion,physics,0.3,0.4,15,1,True,strong
+1003,probability,mathematics,0.6,0.4,16,1,True,strong
+1003,solid state,chemistry,0.3,0.4,17,0,True,strong
+1003,matrices,mathematics,0.6,0.4,18,1,True,strong
+1003,atoms and nuclei,physics,0.6,0.4,19,0,True,strong
+1003,aldehydes and ketones,chemistry,0.6,0.4,20,0,True,strong
+1003,general organic chemistry,chemistry,0.3,0.377659574468085,21,0,True,strong
+1003,statistics,mathematics,0.6,0.4,22,1,True,strong
+1003,thermodynamics,physics,0.6,0.8160377358490566,23,1,True,strong
+1003,gravitation,physics,0.6,0.8160377358490566,24,1,True,strong
+1003,matrices,mathematics,0.6,0.8160377358490566,25,1,True,strong
+1003,definite integration,mathematics,0.6,0.4,26,0,True,strong
+1003,atoms and nuclei,physics,0.6,0.377659574468085,27,0,True,strong
+1003,definite integration,mathematics,0.6,0.377659574468085,28,1,True,strong
+1003,statistics,mathematics,0.6,0.8160377358490566,29,1,True,strong
+1003,atoms and nuclei,physics,0.3,0.3752738225629791,30,0,True,strong
+1003,3d geometry,mathematics,0.6,0.8160377358490566,31,1,True,strong
+1003,atoms and nuclei,physics,0.6,0.3750280954120192,32,0,True,strong
+1003,alcohols phenols and ethers,chemistry,0.3,0.8160377358490566,33,0,True,strong
+1003,biomolecules,chemistry,0.3,0.4,34,1,True,strong
+1003,equilibrium,chemistry,0.6,0.4,35,1,True,strong
+1004,statistics,mathematics,0.3,0.4,1,1,True,strong
+1004,3d geometry,mathematics,0.6,0.4,2,0,True,strong
+1004,organic chemistry,chemistry,0.6,0.4,3,0,True,strong
+1004,chemical kinetics,chemistry,0.3,0.4,4,0,True,strong
+1004,rotational motion,physics,0.6,0.4,5,0,True,strong
+1004,atoms and nuclei,physics,0.6,0.4,6,0,True,strong
+1004,electrostatics,physics,0.3,0.4,7,1,True,strong
+1004,thermodynamics,physics,0.3,0.4,8,0,True,strong
+1004,atoms and nuclei,physics,0.3,0.377659574468085,9,0,True,strong
+1004,laws of motion,physics,0.6,0.4,10,1,True,strong
+1004,thermodynamics,physics,0.3,0.377659574468085,11,1,True,strong
+1004,atomic structure,chemistry,0.6,0.4,12,0,True,strong
+1004,application of derivatives,mathematics,0.6,0.4,13,1,True,strong
+1004,matrices,mathematics,0.3,0.4,14,0,True,strong
+1004,calculus,mathematics,0.6,0.4,15,0,True,strong
+1004,redox reactions,chemistry,0.3,0.4,16,0,True,strong
+1004,3d geometry,mathematics,0.6,0.377659574468085,17,0,True,strong
+1004,binomial theorem,mathematics,0.6,0.4,18,1,True,strong
+1004,organic chemistry,chemistry,0.3,0.377659574468085,19,1,True,strong
+1004,dual nature of radiation,physics,0.6,0.4,20,0,True,strong
+1004,amines,chemistry,0.6,0.4,21,1,True,strong
+1004,thermodynamics,physics,0.3,0.8033867631851085,22,1,True,strong
+1004,atoms and nuclei,physics,0.6,0.3752738225629791,23,0,True,strong
+1004,atomic structure,chemistry,0.3,0.377659574468085,24,0,True,strong
+1004,organic chemistry,chemistry,0.3,0.8033867631851085,25,1,True,strong
+1004,electrochemistry,chemistry,0.3,0.4,26,1,True,strong
+1004,coordination compounds,chemistry,0.6,0.4,27,1,True,strong
+1004,d and f block elements,chemistry,0.6,0.4,28,0,True,strong
+1004,atomic structure,chemistry,0.6,0.3752738225629791,29,1,True,strong
+1004,definite integration,mathematics,0.6,0.4,30,0,True,strong
+1004,probability,mathematics,0.6,0.4,31,1,True,strong
+1004,definite integration,mathematics,0.3,0.377659574468085,32,0,True,strong
+1004,thermodynamics,physics,0.6,0.96067109555255,33,1,True,strong
+1004,general organic chemistry,chemistry,0.3,0.4,34,1,True,strong
+1004,general organic chemistry,chemistry,0.3,0.8160377358490566,35,1,True,strong
+1005,p block elements,chemistry,0.6,0.4,1,1,True,strong
+1005,aldehydes and ketones,chemistry,0.6,0.4,2,1,True,strong
+1005,haloalkanes and haloarenes,chemistry,0.3,0.4,3,1,True,strong
+1005,gravitation,physics,0.3,0.4,4,1,True,strong
+1005,d and f block elements,chemistry,0.3,0.4,5,1,True,strong
+1005,electrochemistry,chemistry,0.3,0.4,6,1,True,strong
+1005,d and f block elements,chemistry,0.3,0.8160377358490566,7,1,True,strong
+1005,chemical bonding,chemistry,0.6,0.4,8,0,True,strong
+1005,matrices,mathematics,0.6,0.4,9,1,True,strong
+1005,dual nature of radiation,physics,0.6,0.4,10,1,True,strong
+1005,s block elements,chemistry,0.3,0.4,11,0,True,strong
+1005,aldehydes and ketones,chemistry,0.3,0.8160377358490566,12,1,True,strong
+1005,kinetic theory of gases,physics,0.3,0.4,13,1,True,strong
+1005,binomial theorem,mathematics,0.6,0.4,14,1,True,strong
+1005,d and f block elements,chemistry,0.3,0.9635985066053993,15,1,True,strong
+1005,optics,physics,0.3,0.4,16,0,True,strong
+1005,s block elements,chemistry,0.3,0.377659574468085,17,0,True,strong
+1005,atoms and nuclei,physics,0.3,0.4,18,1,True,strong
+1005,atoms and nuclei,physics,0.6,0.8160377358490566,19,1,True,strong
+1005,thermodynamics,physics,0.6,0.4,20,0,True,strong
+1005,atomic structure,chemistry,0.6,0.4,21,0,True,strong
+1005,organic chemistry,chemistry,0.6,0.4,22,0,True,strong
+1005,organic chemistry,chemistry,0.6,0.377659574468085,23,0,True,strong
+1005,electrostatics,physics,0.6,0.4,24,0,True,strong
+1005,thermodynamics,physics,0.6,0.377659574468085,25,0,True,strong
+1005,atomic structure,chemistry,0.3,0.377659574468085,26,1,True,strong
+1005,statistics,mathematics,0.6,0.4,27,0,True,strong
+1005,waves,physics,0.3,0.4,28,1,True,strong
+1005,electrostatics,physics,0.6,0.377659574468085,29,1,True,strong
+1005,electrostatics,physics,0.6,0.8033867631851085,30,1,True,strong
+1005,electrostatics,physics,0.3,0.96067109555255,31,1,True,strong
+1005,d and f block elements,chemistry,0.6,0.9936018156825894,32,1,True,strong
+1005,probability,mathematics,0.6,0.4,33,0,True,strong
+1005,atoms and nuclei,physics,0.6,0.9635985066053993,34,1,True,strong
+1005,general organic chemistry,chemistry,0.6,0.4,35,0,True,strong
+1006,solid state,chemistry,0.3,0.4,1,0,True,strong
+1006,haloalkanes and haloarenes,chemistry,0.3,0.4,2,1,True,strong
+1006,gravitation,physics,0.6,0.4,3,0,True,strong
+1006,p block elements,chemistry,0.3,0.4,4,0,True,strong
+1006,genetics,biology,0.5,0.4,5,0,True,strong
+1006,surface chemistry,chemistry,0.3,0.4,6,1,True,strong
+1006,haloalkanes and haloarenes,chemistry,0.5,0.8160377358490566,7,1,True,strong
+1006,cell biology,biology,0.5,0.4,8,0,True,strong
+1006,aldehydes and ketones,chemistry,0.3,0.4,9,0,True,strong
+1006,periodic table,chemistry,0.3,0.4,10,1,True,strong
+1006,sequence and series,mathematics,0.5,0.4,11,0,True,strong
+1006,electrostatics,physics,0.6,0.4,12,0,True,strong
+1006,atomic structure,chemistry,0.6,0.4,13,1,True,strong
+1006,magnetic effects of current,physics,0.3,0.4,14,0,True,strong
+1006,thermodynamics,chemistry,0.6,0.4,15,0,True,strong
+1006,periodic table,chemistry,0.3,0.8160377358490566,16,1,True,strong
+1006,general organic chemistry,chemistry,0.3,0.4,17,0,True,strong
+1006,electrochemistry,chemistry,0.6,0.4,18,0,True,strong
+1006,periodic table,chemistry,0.6,0.9635985066053993,19,1,True,strong
+1006,d and f block elements,chemistry,0.6,0.4,20,1,True,strong
+1006,thermodynamics,physics,0.6,0.377659574468085,21,1,True,strong
+1006,magnetic effects of current,physics,0.6,0.377659574468085,22,1,True,strong
+1006,electromagnetic induction,physics,0.3,0.4,23,0,True,strong
+1006,ecosystem,biology,0.5,0.4,24,1,True,strong
+1006,statistics,mathematics,0.6,0.4,25,1,True,strong
+1006,surface chemistry,chemistry,0.6,0.8160377358490566,26,1,True,strong
+1006,3d geometry,mathematics,0.6,0.4,27,1,True,strong
+1006,thermodynamics,physics,0.3,0.8033867631851085,28,1,True,strong
+1006,redox reactions,chemistry,0.6,0.4,29,1,True,strong
+1006,organic chemistry,chemistry,0.3,0.4,30,0,True,strong
+1006,periodic table,chemistry,0.6,0.9936018156825894,31,1,True,strong
+1006,p block elements,chemistry,0.3,0.377659574468085,32,0,True,strong
+1006,3d geometry,mathematics,0.6,0.8160377358490566,33,1,True,strong
+1006,equilibrium,chemistry,0.6,0.4,34,1,True,strong
+1006,metallurgy,chemistry,0.3,0.4,35,1,True,strong
+1007,chemical kinetics,chemistry,0.6,0.4,1,0,True,strong
+1007,application of derivatives,mathematics,0.6,0.4,2,1,True,strong
+1007,optics,physics,0.3,0.4,3,0,True,strong
+1007,simple harmonic motion,physics,0.5,0.4,4,0,True,strong
+1007,calculus,mathematics,0.6,0.4,5,0,True,strong
+1007,organic chemistry,chemistry,0.3,0.4,6,1,True,strong
+1007,metallurgy,chemistry,0.3,0.4,7,0,True,strong
+1007,thermodynamics,chemistry,0.6,0.4,8,0,True,strong
+1007,biomolecules,chemistry,0.6,0.4,9,0,True,strong
+1007,p block elements,chemistry,0.6,0.4,10,0,True,strong
+1007,p block elements,chemistry,0.3,0.377659574468085,11,0,True,strong
+1007,aldehydes and ketones,chemistry,0.6,0.4,12,1,True,strong
+1007,kinematics,physics,0.3,0.4,13,1,True,strong
+1007,organic chemistry,chemistry,0.3,0.8160377358490566,14,1,True,strong
+1007,electrostatics,physics,0.3,0.4,15,1,True,strong
+1007,hydrogen,chemistry,0.3,0.4,16,0,True,strong
+1007,probability,mathematics,0.3,0.4,17,0,True,strong
+1007,hydrogen,chemistry,0.3,0.377659574468085,18,1,True,strong
+1007,modern physics,physics,0.3,0.4,19,0,True,strong
+1007,statistics,mathematics,0.6,0.4,20,0,True,strong
+1007,chemical bonding,chemistry,0.6,0.4,21,1,True,strong
+1007,chemical kinetics,chemistry,0.3,0.377659574468085,22,0,True,strong
+1007,calculus,mathematics,0.6,0.377659574468085,23,1,True,strong
+1007,electrostatics,physics,0.6,0.8160377358490566,24,1,True,strong
+1007,definite integration,mathematics,0.6,0.4,25,0,True,strong
+1007,coordination compounds,chemistry,0.6,0.4,26,0,True,strong
+1007,3d geometry,mathematics,0.6,0.4,27,1,True,strong
+1007,electromagnetic induction,physics,0.3,0.4,28,1,True,strong
+1007,laws of motion,physics,0.6,0.4,29,0,True,strong
+1007,thermodynamics,physics,0.3,0.377659574468085,30,0,True,strong
+1007,periodic table,chemistry,0.6,0.4,31,0,True,strong
+1007,biomolecules,chemistry,0.3,0.377659574468085,32,0,True,strong
+1007,d and f block elements,chemistry,0.3,0.4,33,1,True,strong
+1007,hydrogen,chemistry,0.3,0.8033867631851085,34,1,True,strong
+1007,equilibrium,chemistry,0.3,0.4,35,0,True,strong
+1008,solutions,chemistry,0.3,0.4,1,1,True,strong
+1008,trigonometry,mathematics,0.6,0.4,2,0,True,strong
+1008,matrices,mathematics,0.6,0.4,3,1,True,strong
+1008,kinematics,physics,0.3,0.4,4,0,True,strong
+1008,thermodynamics,physics,0.3,0.4,5,0,True,strong
+1008,aldehydes and ketones,chemistry,0.6,0.4,6,1,True,strong
+1008,coordination compounds,chemistry,0.6,0.4,7,1,True,strong
+1008,3d geometry,mathematics,0.6,0.4,8,1,True,strong
+1008,3d geometry,mathematics,0.6,0.8160377358490566,9,1,True,strong
+1008,atoms and nuclei,physics,0.3,0.4,10,0,True,strong
+1008,chemical bonding,chemistry,0.3,0.4,11,1,True,strong
+1008,atomic structure,chemistry,0.6,0.4,12,0,True,strong
+1008,statistics,mathematics,0.6,0.4,13,1,True,strong
+1008,p block elements,chemistry,0.6,0.4,14,0,True,strong
+1008,waves,physics,0.6,0.4,15,0,True,strong
+1008,statistics,mathematics,0.6,0.8160377358490566,16,1,True,strong
+1008,atoms and nuclei,physics,0.3,0.377659574468085,17,0,True,strong
+1008,3d geometry,mathematics,0.6,0.9635985066053993,18,1,True,strong
+1008,definite integration,mathematics,0.6,0.4,19,0,True,strong
+1008,organic chemistry,chemistry,0.3,0.4,20,1,True,strong
+1008,general organic chemistry,chemistry,0.3,0.4,21,1,True,strong
+1008,dual nature of radiation,physics,0.3,0.4,22,1,True,strong
+1008,electrostatics,physics,0.6,0.4,23,0,True,strong
+1008,coordinate geometry,mathematics,0.6,0.4,24,0,True,strong
+1008,d and f block elements,chemistry,0.6,0.4,25,1,True,strong
+1008,trigonometry,mathematics,0.6,0.377659574468085,26,1,True,strong
+1008,modern physics,physics,0.3,0.4,27,1,True,strong
+1008,surface chemistry,chemistry,0.3,0.4,28,0,True,strong
+1008,organic chemistry,chemistry,0.3,0.8160377358490566,29,0,True,strong
+1008,thermodynamics,physics,0.6,0.377659574468085,30,1,True,strong
+1008,coordination compounds,chemistry,0.6,0.8160377358490566,31,1,True,strong
+1008,gravitation,physics,0.6,0.4,32,0,True,strong
+1008,definite integration,mathematics,0.3,0.377659574468085,33,0,True,strong
+1008,laws of motion,physics,0.6,0.4,34,0,True,strong
+1008,electrochemistry,chemistry,0.3,0.4,35,1,True,strong
+1009,thermodynamics,physics,0.6,0.4,1,0,True,strong
+1009,application of derivatives,mathematics,0.6,0.4,2,1,True,strong
+1009,coordination compounds,chemistry,0.3,0.4,3,0,True,strong
+1009,electrostatics,physics,0.6,0.4,4,1,True,strong
+1009,aldehydes and ketones,chemistry,0.3,0.4,5,1,True,strong
+1009,definite integration,mathematics,0.6,0.4,6,0,True,strong
+1009,gravitation,physics,0.6,0.4,7,0,True,strong
+1009,magnetic effects of current,physics,0.3,0.4,8,0,True,strong
+1009,binomial theorem,mathematics,0.6,0.4,9,0,True,strong
+1009,electrostatics,physics,0.6,0.8160377358490566,10,1,True,strong
+1009,magnetic effects of current,physics,0.6,0.377659574468085,11,1,True,strong
+1009,magnetic effects of current,physics,0.6,0.8033867631851085,12,1,True,strong
+1009,p block elements,chemistry,0.6,0.4,13,0,True,strong
+1009,complex numbers,mathematics,0.6,0.4,14,0,True,strong
+1009,electrostatics,physics,0.6,0.9635985066053993,15,1,True,strong
+1009,binomial theorem,mathematics,0.6,0.377659574468085,16,1,True,strong
+1009,p block elements,chemistry,0.3,0.377659574468085,17,0,True,strong
+1009,matrices,mathematics,0.6,0.4,18,0,True,strong
+1009,haloalkanes and haloarenes,chemistry,0.5,0.4,19,1,True,strong
+1009,equilibrium,chemistry,0.6,0.4,20,0,True,strong
+1009,s block elements,chemistry,0.3,0.4,21,0,True,strong
+1009,atoms and nuclei,physics,0.3,0.4,22,1,True,strong
+1009,electrostatics,physics,0.3,0.9936018156825894,23,1,True,strong
+1009,trigonometry,mathematics,0.6,0.4,24,0,True,strong
+1009,statistics,mathematics,0.6,0.4,25,0,True,strong
+1009,complex numbers,mathematics,0.6,0.377659574468085,26,1,True,strong
+1009,electrostatics,physics,0.6,0.9989003896755236,27,1,True,strong
+1009,atomic structure,chemistry,0.3,0.4,28,0,True,strong
+1009,organic chemistry,chemistry,0.6,0.4,29,1,True,strong
+1009,electrostatics,physics,0.6,0.9998117562378144,30,1,True,strong
+1009,laws of motion,physics,0.6,0.4,31,0,True,strong
+1009,aldehydes and ketones,chemistry,0.6,0.8160377358490566,32,1,True,strong
+1009,3d geometry,mathematics,0.6,0.4,33,1,True,strong
+1009,s block elements,chemistry,0.6,0.377659574468085,34,1,True,strong
+1009,thermodynamics,physics,0.6,0.377659574468085,35,1,True,strong
+1010,organic chemistry,chemistry,0.3,0.4,1,1,True,strong
+1010,thermodynamics,chemistry,0.3,0.4,2,1,True,strong
+1010,matrices,mathematics,0.6,0.4,3,1,True,strong
+1010,p block elements,chemistry,0.3,0.4,4,0,True,strong
+1010,magnetic effects of current,physics,0.6,0.4,5,0,True,strong
+1010,biomolecules,chemistry,0.3,0.4,6,0,True,strong
+1010,biomolecules,chemistry,0.6,0.377659574468085,7,0,True,strong
+1010,biomolecules,chemistry,0.3,0.3752738225629791,8,0,True,strong
+1010,p block elements,chemistry,0.6,0.377659574468085,9,1,True,strong
+1010,organic chemistry,chemistry,0.3,0.8160377358490566,10,1,True,strong
+1010,thermodynamics,physics,0.6,0.8160377358490566,11,1,True,strong
+1010,probability,mathematics,0.6,0.4,12,1,True,strong
+1010,coordination compounds,chemistry,0.3,0.4,13,1,True,strong
+1010,coordination compounds,chemistry,0.3,0.8160377358490566,14,1,True,strong
+1010,3d geometry,mathematics,0.6,0.4,15,1,True,strong
+1010,periodic table,chemistry,0.3,0.4,16,0,True,strong
+1010,aldehydes and ketones,chemistry,0.6,0.4,17,1,True,strong
+1010,application of derivatives,mathematics,0.6,0.4,18,1,True,strong
+1010,gravitation,physics,0.6,0.4,19,0,True,strong
+1010,solutions,chemistry,0.3,0.4,20,0,True,strong
+1010,coordinate geometry,mathematics,0.6,0.4,21,1,True,strong
+1010,dual nature of radiation,physics,0.6,0.4,22,0,True,strong
+1010,matrices,mathematics,0.3,0.8160377358490566,23,0,True,strong
+1010,laws of motion,physics,0.3,0.4,24,0,True,strong
+1010,biomolecules,chemistry,0.3,0.3750280954120192,25,0,True,strong
+1010,electrostatics,physics,0.6,0.4,26,1,True,strong
+1010,thermodynamics,physics,0.6,0.9635985066053993,27,1,True,strong
+1010,electromagnetic induction,physics,0.6,0.4,28,0,True,strong
+1010,matrices,mathematics,0.6,0.4983509234828495,29,1,True,strong
+1010,atoms and nuclei,physics,0.3,0.4,30,0,True,strong
+1010,matrices,mathematics,0.6,0.8638748141212755,31,1,True,strong
+1010,d and f block elements,chemistry,0.3,0.4,32,0,True,strong
+1010,thermodynamics,physics,0.3,0.9936018156825894,33,1,True,strong
+1010,application of derivatives,mathematics,0.9,0.8160377358490566,34,1,True,strong
+1010,metallurgy,chemistry,0.3,0.4,35,0,True,strong
+1011,organic chemistry,chemistry,0.6,0.4,1,1,True,strong
+1011,p block elements,chemistry,0.3,0.4,2,0,True,strong
+1011,gravitation,physics,0.6,0.4,3,1,True,strong
+1011,atoms and nuclei,physics,0.3,0.4,4,1,True,strong
+1011,probability,mathematics,0.6,0.4,5,0,True,strong
+1011,electrochemistry,chemistry,0.3,0.4,6,1,True,strong
+1011,binomial theorem,mathematics,0.6,0.4,7,0,True,strong
+1011,definite integration,mathematics,0.6,0.4,8,0,True,strong
+1011,calculus,mathematics,0.9,0.4,9,0,True,strong
+1011,3d geometry,mathematics,0.6,0.4,10,0,True,strong
+1011,aldehydes and ketones,chemistry,0.6,0.4,11,0,True,strong
+1011,definite integration,mathematics,0.9,0.377659574468085,12,0,True,strong
+1011,amines,chemistry,0.6,0.4,13,0,True,strong
+1011,aldehydes and ketones,chemistry,0.6,0.377659574468085,14,1,True,strong
+1011,electrostatics,physics,0.3,0.4,15,0,True,strong
+1011,hydrogen,chemistry,0.3,0.4,16,1,True,strong
+1011,electrochemistry,chemistry,0.6,0.8160377358490566,17,1,True,strong
+1011,electromagnetic induction,physics,0.3,0.4,18,1,True,strong
+1011,organic chemistry,chemistry,0.3,0.8160377358490566,19,0,True,strong
+1011,binomial theorem,mathematics,0.6,0.377659574468085,20,1,True,strong
+1011,biomolecules,chemistry,0.3,0.4,21,1,True,strong
+1011,calculus,mathematics,0.6,0.377659574468085,22,1,True,strong
+1011,s block elements,chemistry,0.6,0.4,23,0,True,strong
+1011,dual nature of radiation,physics,0.6,0.4,24,1,True,strong
+1011,atomic structure,chemistry,0.6,0.4,25,1,True,strong
+1011,organic chemistry,chemistry,0.3,0.4983509234828495,26,0,True,strong
+1011,kinematics,physics,0.3,0.4,27,0,True,strong
+1011,equilibrium,chemistry,0.3,0.4,28,1,True,strong
+1011,rotational motion,physics,0.6,0.4,29,1,True,strong
+1011,3d geometry,mathematics,0.6,0.377659574468085,30,0,True,strong
+1011,aldehydes and ketones,chemistry,0.3,0.8033867631851085,31,1,True,strong
+1011,complex numbers,mathematics,0.6,0.4,32,1,True,strong
+1011,p block elements,chemistry,0.3,0.377659574468085,33,0,True,strong
+1011,thermodynamics,chemistry,0.3,0.4,34,1,True,strong
+1011,coordination compounds,chemistry,0.6,0.4,35,0,True,strong
+1012,electrostatics,physics,0.6,0.4,1,0,True,strong
+1012,3d geometry,mathematics,0.6,0.4,2,0,True,strong
+1012,p block elements,chemistry,0.3,0.4,3,1,True,strong
+1012,optics,physics,0.3,0.4,4,1,True,strong
+1012,atomic structure,chemistry,0.3,0.4,5,0,True,strong
+1012,probability,mathematics,0.6,0.4,6,1,True,strong
+1012,atoms and nuclei,physics,0.6,0.4,7,0,True,strong
+1012,matrices,mathematics,0.3,0.4,8,0,True,strong
+1012,coordination compounds,chemistry,0.3,0.4,9,0,True,strong
+1012,organic chemistry,chemistry,0.3,0.4,10,1,True,strong
+1012,coordination compounds,chemistry,0.3,0.377659574468085,11,1,True,strong
+1012,calculus,mathematics,0.6,0.4,12,1,True,strong
+1012,haloalkanes and haloarenes,chemistry,0.3,0.4,13,1,True,strong
+1012,thermodynamics,chemistry,0.6,0.4,14,1,True,strong
+1012,general organic chemistry,chemistry,0.6,0.4,15,1,True,strong
+1012,s block elements,chemistry,0.6,0.4,16,1,True,strong
+1012,solid state,chemistry,0.6,0.4,17,0,True,strong
+1012,organic chemistry,chemistry,0.6,0.8160377358490566,18,1,True,strong
+1012,electrochemistry,chemistry,0.6,0.4,19,0,True,strong
+1012,electrochemistry,chemistry,0.6,0.377659574468085,20,1,True,strong
+1012,d and f block elements,chemistry,0.3,0.4,21,1,True,strong
+1012,p block elements,chemistry,0.3,0.8160377358490566,22,0,True,strong
+1012,electrostatics,physics,0.6,0.377659574468085,23,1,True,strong
+1012,surface chemistry,chemistry,0.3,0.4,24,1,True,strong
+1012,equilibrium,chemistry,0.3,0.4,25,1,True,strong
+1012,surface chemistry,chemistry,0.3,0.8160377358490566,26,0,True,strong
+1012,complex numbers,mathematics,0.6,0.4,27,1,True,strong
+1012,d and f block elements,chemistry,0.3,0.8160377358490566,28,1,True,strong
+1012,organic chemistry,chemistry,0.3,0.9635985066053993,29,1,True,strong
+1012,organic chemistry,chemistry,0.3,0.9936018156825894,30,0,True,strong
+1012,calculus,mathematics,0.6,0.8160377358490566,31,1,True,strong
+1012,d and f block elements,chemistry,0.3,0.9635985066053993,32,1,True,strong
+1012,probability,mathematics,0.6,0.8160377358490566,33,1,True,strong
+1012,calculus,mathematics,0.9,0.9635985066053993,34,0,True,strong
+1012,3d geometry,mathematics,0.6,0.377659574468085,35,0,True,strong
+1013,kinematics,physics,0.6,0.4,1,0,True,strong
+1013,complex numbers,mathematics,0.6,0.4,2,1,True,strong
+1013,atoms and nuclei,physics,0.3,0.4,3,1,True,strong
+1013,coordination compounds,chemistry,0.6,0.4,4,0,True,strong
+1013,surface chemistry,chemistry,0.6,0.4,5,1,True,strong
+1013,3d geometry,mathematics,0.6,0.4,6,1,True,strong
+1013,binomial theorem,mathematics,0.6,0.4,7,0,True,strong
+1013,d and f block elements,chemistry,0.6,0.4,8,1,True,strong
+1013,equilibrium,chemistry,0.3,0.4,9,0,True,strong
+1013,probability,mathematics,0.6,0.4,10,0,True,strong
+1013,kinematics,physics,0.6,0.377659574468085,11,0,True,strong
+1013,3d geometry,mathematics,0.6,0.8160377358490566,12,1,True,strong
+1013,binomial theorem,mathematics,0.6,0.377659574468085,13,0,True,strong
+1013,chemical bonding,chemistry,0.3,0.4,14,0,True,strong
+1013,electrostatics,physics,0.6,0.4,15,1,True,strong
+1013,s block elements,chemistry,0.3,0.4,16,0,True,strong
+1013,electrostatics,physics,0.3,0.8160377358490566,17,1,True,strong
+1013,probability,mathematics,0.6,0.377659574468085,18,1,True,strong
+1013,s block elements,chemistry,0.3,0.377659574468085,19,1,True,strong
+1013,hydrogen,chemistry,0.3,0.4,20,0,True,strong
+1013,general organic chemistry,chemistry,0.6,0.4,21,1,True,strong
+1013,dual nature of radiation,physics,0.6,0.4,22,1,True,strong
+1013,redox reactions,chemistry,0.3,0.4,23,0,True,strong
+1013,matrices,mathematics,0.6,0.4,24,0,True,strong
+1013,magnetic effects of current,physics,0.6,0.4,25,1,True,strong
+1013,dual nature of radiation,physics,0.6,0.8160377358490566,26,1,True,strong
+1013,haloalkanes and haloarenes,chemistry,0.6,0.4,27,0,True,strong
+1013,gravitation,physics,0.6,0.4,28,1,True,strong
+1013,rotational motion,physics,0.9,0.4,29,0,True,strong
+1013,equilibrium,chemistry,0.3,0.377659574468085,30,1,True,strong
+1013,thermodynamics,chemistry,0.3,0.4,31,0,True,strong
+1013,organic chemistry,chemistry,0.3,0.4,32,0,True,strong
+1013,chemical kinetics,chemistry,0.3,0.4,33,0,True,strong
+1013,thermodynamics,physics,0.3,0.377659574468085,34,0,True,strong
+1013,thermodynamics,physics,0.3,0.3752738225629791,35,1,True,strong
+1014,magnetic effects of current,physics,0.6,0.4,1,0,True,strong
+1014,surface chemistry,chemistry,0.3,0.4,2,0,True,strong
+1014,alcohols phenols and ethers,chemistry,0.3,0.4,3,1,True,strong
+1014,trigonometry,mathematics,0.6,0.4,4,0,True,strong
+1014,magnetic effects of current,physics,0.6,0.377659574468085,5,0,True,strong
+1014,3d geometry,mathematics,0.6,0.4,6,0,True,strong
+1014,3d geometry,mathematics,0.6,0.377659574468085,7,0,True,strong
+1014,atomic structure,chemistry,0.3,0.4,8,1,True,strong
+1014,organic chemistry,chemistry,0.3,0.4,9,1,True,strong
+1014,definite integration,mathematics,0.6,0.4,10,1,True,strong
+1014,atomic structure,chemistry,0.6,0.8160377358490566,11,1,True,strong
+1014,biomolecules,chemistry,0.3,0.4,12,1,True,strong
+1014,periodic table,chemistry,0.3,0.4,13,1,True,strong
+1014,general organic chemistry,chemistry,0.3,0.4,14,0,True,strong
+1014,chemical bonding,chemistry,0.6,0.4,15,1,True,strong
+1014,binomial theorem,mathematics,0.6,0.4,16,1,True,strong
+1014,statistics,mathematics,0.6,0.4,17,0,True,strong
+1014,amines,chemistry,0.6,0.4,18,0,True,strong
+1014,probability,mathematics,0.6,0.4,19,1,True,strong
+1014,p block elements,chemistry,0.3,0.4,20,0,True,strong
+1014,electrochemistry,chemistry,0.6,0.4,21,0,True,strong
+1014,chemical bonding,chemistry,0.6,0.8160377358490566,22,1,True,strong
+1014,optics,physics,0.3,0.4,23,0,True,strong
+1014,organic chemistry,chemistry,0.3,0.8160377358490566,24,1,True,strong
+1014,atomic structure,chemistry,0.3,0.9635985066053993,25,1,True,strong
+1014,coordinate geometry,mathematics,0.6,0.4,26,0,True,strong
+1014,definite integration,mathematics,0.6,0.8160377358490566,27,0,True,strong
+1014,biomolecules,chemistry,0.3,0.8160377358490566,28,1,True,strong
+1014,statistics,mathematics,0.6,0.377659574468085,29,1,True,strong
+1014,coordinate geometry,mathematics,0.6,0.377659574468085,30,1,True,strong
+1014,electrochemistry,chemistry,0.6,0.377659574468085,31,0,True,strong
+1014,magnetism,physics,0.3,0.4,32,0,True,strong
+1014,trigonometry,mathematics,0.6,0.377659574468085,33,1,True,strong
+1014,biomolecules,chemistry,0.3,0.9635985066053993,34,1,True,strong
+1014,d and f block elements,chemistry,0.3,0.4,35,1,True,strong
+1015,binomial theorem,mathematics,0.6,0.3,1,0,True,average
+1015,optics,physics,0.3,0.3,2,1,True,average
+1015,organic chemistry,chemistry,0.3,0.3,3,0,True,average
+1015,matrices,mathematics,0.6,0.3,4,1,True,average
+1015,3d geometry,mathematics,0.6,0.3,5,0,True,average
+1015,binomial theorem,mathematics,0.6,0.2432432432432432,6,0,True,average
+1015,calculus,mathematics,0.6,0.3,7,1,True,average
+1015,p block elements,chemistry,0.3,0.3,8,0,True,average
+1015,d and f block elements,chemistry,0.6,0.3,9,0,True,average
+1015,aldehydes and ketones,chemistry,0.6,0.3,10,0,True,average
+1015,electrostatics,physics,0.6,0.3,11,0,True,average
+1015,equilibrium,chemistry,0.3,0.3,12,1,True,average
+1015,rotational motion,physics,0.6,0.3,13,1,True,average
+1015,thermodynamics,physics,0.6,0.3,14,0,True,average
+1015,electrochemistry,chemistry,0.3,0.3,15,0,True,average
+1015,organic chemistry,chemistry,0.6,0.2432432432432432,16,0,True,average
+1015,biomolecules,chemistry,0.3,0.3,17,1,True,average
+1015,modern physics,physics,0.6,0.3,18,0,True,average
+1015,dual nature of radiation,physics,0.6,0.3,19,0,True,average
+1015,p block elements,chemistry,0.6,0.2432432432432432,20,0,True,average
+1015,complex numbers,mathematics,0.6,0.3,21,0,True,average
+1015,metallurgy,chemistry,0.3,0.3,22,0,True,average
+1015,gravitation,physics,0.3,0.3,23,0,True,average
+1015,binomial theorem,mathematics,0.6,0.2328767123287671,24,0,True,average
+1015,alcohols phenols and ethers,chemistry,0.3,0.3,25,1,True,average
+1015,calculus,mathematics,0.6,0.6853932584269663,26,1,True,average
+1015,3d geometry,mathematics,0.6,0.2432432432432432,27,0,True,average
+1015,s block elements,chemistry,0.6,0.3,28,0,True,average
+1015,thermodynamics,physics,0.6,0.2432432432432432,29,0,True,average
+1015,electrostatics,physics,0.9,0.2432432432432432,30,1,True,average
+1015,gravitation,physics,0.6,0.2432432432432432,31,0,True,average
+1015,application of derivatives,mathematics,0.6,0.3,32,0,True,average
+1015,organic chemistry,chemistry,0.3,0.2328767123287671,33,0,True,average
+1015,coordinate geometry,mathematics,0.6,0.3,34,0,True,average
+1015,matrices,mathematics,0.6,0.6853932584269663,35,0,True,average
+1016,matrices,mathematics,0.6,0.3,1,1,True,average
+1016,organic chemistry,chemistry,0.6,0.3,2,1,True,average
+1016,electrostatics,physics,0.6,0.3,3,0,True,average
+1016,binomial theorem,mathematics,0.3,0.3,4,1,True,average
+1016,kinetic theory of gases,physics,0.6,0.3,5,1,True,average
+1016,probability,mathematics,0.6,0.3,6,0,True,average
+1016,probability,mathematics,0.3,0.2432432432432432,7,0,True,average
+1016,chemical bonding,chemistry,0.3,0.3,8,0,True,average
+1016,waves,physics,0.6,0.3,9,0,True,average
+1016,definite integration,mathematics,0.6,0.3,10,0,True,average
+1016,p block elements,chemistry,0.3,0.3,11,0,True,average
+1016,organic chemistry,chemistry,0.9,0.6853932584269663,12,1,True,average
+1016,probability,mathematics,0.6,0.2328767123287671,13,0,True,average
+1016,rotational motion,physics,0.6,0.3,14,1,True,average
+1016,rotational motion,physics,0.6,0.6853932584269663,15,1,True,average
+1016,thermodynamics,chemistry,0.3,0.3,16,0,True,average
+1016,thermodynamics,physics,0.3,0.2432432432432432,17,1,True,average
+1016,kinematics,physics,0.6,0.3,18,1,True,average
+1016,waves,physics,0.3,0.2432432432432432,19,1,True,average
+1016,atoms and nuclei,physics,0.3,0.3,20,0,True,average
+1016,chemical bonding,chemistry,0.3,0.2432432432432432,21,1,True,average
+1016,organic chemistry,chemistry,0.3,0.9095315024232634,22,1,True,average
+1016,kinematics,physics,0.6,0.6853932584269663,23,0,True,average
+1016,matrices,mathematics,0.3,0.6853932584269663,24,1,True,average
+1016,thermodynamics,physics,0.6,0.6291390728476821,25,1,True,average
+1016,probability,mathematics,0.6,0.2311212814645309,26,0,True,average
+1016,chemical kinetics,chemistry,0.3,0.3,27,0,True,average
+1016,coordination compounds,chemistry,0.6,0.3,28,0,True,average
+1016,equilibrium,chemistry,0.3,0.3,29,0,True,average
+1016,organic chemistry,chemistry,0.3,0.978490493566353,30,1,True,average
+1016,3d geometry,mathematics,0.6,0.3,31,0,True,average
+1016,p block elements,chemistry,0.3,0.2432432432432432,32,0,True,average
+1016,organic chemistry,chemistry,0.3,0.9951446840793324,33,1,True,average
+1016,electromagnetic induction,physics,0.6,0.3,34,0,True,average
+1016,aldehydes and ketones,chemistry,0.6,0.3,35,0,True,average
+1017,calculus,mathematics,0.6,0.3,1,1,True,average
+1017,chemical kinetics,chemistry,0.6,0.3,2,0,True,average
+1017,statistics,mathematics,0.6,0.3,3,0,True,average
+1017,atoms and nuclei,physics,0.6,0.3,4,0,True,average
+1017,gravitation,physics,0.3,0.3,5,1,True,average
+1017,electrostatics,physics,0.6,0.3,6,0,True,average
+1017,amines,chemistry,0.3,0.3,7,0,True,average
+1017,magnetism,physics,0.3,0.3,8,1,True,average
+1017,gravitation,physics,0.3,0.6853932584269663,9,1,True,average
+1017,gravitation,physics,0.6,0.9095315024232634,10,1,True,average
+1017,kinematics,physics,0.6,0.3,11,0,True,average
+1017,aldehydes and ketones,chemistry,0.6,0.3,12,1,True,average
+1017,alcohols phenols and ethers,chemistry,0.3,0.3,13,1,True,average
+1017,statistics,mathematics,0.6,0.2432432432432432,14,1,True,average
+1017,biomolecules,chemistry,0.3,0.3,15,0,True,average
+1017,aldehydes and ketones,chemistry,0.3,0.6853932584269663,16,0,True,average
+1017,calculus,mathematics,0.6,0.6853932584269663,17,1,True,average
+1017,thermodynamics,physics,0.6,0.3,18,1,True,average
+1017,application of derivatives,mathematics,0.3,0.3,19,0,True,average
+1017,kinematics,physics,0.6,0.2432432432432432,20,0,True,average
+1017,complex numbers,mathematics,0.9,0.3,21,0,True,average
+1017,electrostatics,physics,0.6,0.2432432432432432,22,0,True,average
+1017,general organic chemistry,chemistry,0.3,0.3,23,0,True,average
+1017,atomic structure,chemistry,0.3,0.3,24,1,True,average
+1017,general organic chemistry,chemistry,0.3,0.2432432432432432,25,1,True,average
+1017,haloalkanes and haloarenes,chemistry,0.3,0.3,26,1,True,average
+1017,d and f block elements,chemistry,0.3,0.3,27,0,True,average
+1017,calculus,mathematics,0.6,0.9095315024232634,28,1,True,average
+1017,s block elements,chemistry,0.3,0.3,29,1,True,average
+1017,matrices,mathematics,0.6,0.3,30,0,True,average
+1017,matrices,mathematics,0.6,0.2432432432432432,31,0,True,average
+1017,organic chemistry,chemistry,0.3,0.3,32,0,True,average
+1017,aldehydes and ketones,chemistry,0.6,0.3800738007380074,33,0,True,average
+1017,d and f block elements,chemistry,0.3,0.2432432432432432,34,0,True,average
+1017,kinematics,physics,0.3,0.2328767123287671,35,1,True,average
+1018,kinematics,physics,0.3,0.3,1,0,True,average
+1018,surface chemistry,chemistry,0.3,0.3,2,0,True,average
+1018,solutions,chemistry,0.3,0.3,3,1,True,average
+1018,definite integration,mathematics,0.6,0.3,4,0,True,average
+1018,solutions,chemistry,0.6,0.6853932584269663,5,1,True,average
+1018,magnetic effects of current,physics,0.6,0.3,6,1,True,average
+1018,d and f block elements,chemistry,0.6,0.3,7,1,True,average
+1018,plant physiology,biology,0.5,0.3,8,1,True,average
+1018,electrostatics,physics,0.6,0.3,9,1,True,average
+1018,p block elements,chemistry,0.3,0.3,10,0,True,average
+1018,thermodynamics,physics,0.3,0.3,11,0,True,average
+1018,thermodynamics,chemistry,0.3,0.2432432432432432,12,1,True,average
+1018,calculus,mathematics,0.6,0.3,13,0,True,average
+1018,calculus,mathematics,0.6,0.2432432432432432,14,1,True,average
+1018,p block elements,chemistry,0.3,0.2432432432432432,15,0,True,average
+1018,amines,chemistry,0.3,0.3,16,0,True,average
+1018,sequence and series,mathematics,0.5,0.3,17,0,True,average
+1018,haloalkanes and haloarenes,chemistry,0.5,0.3,18,1,True,average
+1018,electrostatics,physics,0.3,0.6853932584269663,19,1,True,average
+1018,atoms and nuclei,physics,0.3,0.3,20,0,True,average
+1018,p block elements,chemistry,0.3,0.2328767123287671,21,0,True,average
+1018,amines,chemistry,0.3,0.2432432432432432,22,0,True,average
+1018,biomolecules,chemistry,0.3,0.3,23,0,True,average
+1018,definite integration,mathematics,0.6,0.2432432432432432,24,0,True,average
+1018,waves,physics,0.6,0.3,25,0,True,average
+1018,modern physics,physics,0.6,0.3,26,1,True,average
+1018,modern physics,physics,0.3,0.6853932584269663,27,1,True,average
+1018,optics,physics,0.3,0.3,28,0,True,average
+1018,metallurgy,chemistry,0.6,0.3,29,0,True,average
+1018,statistics,mathematics,0.6,0.3,30,0,True,average
+1018,chemical kinetics,chemistry,0.3,0.3,31,0,True,average
+1018,equilibrium,chemistry,0.6,0.3,32,0,True,average
+1018,thermodynamics,chemistry,0.3,0.6291390728476821,33,1,True,average
+1018,atoms and nuclei,physics,0.6,0.2432432432432432,34,1,True,average
+1018,laws of motion,physics,0.3,0.3,35,0,True,average
+1019,laws of motion,physics,0.3,0.3,1,0,True,average
+1019,thermodynamics,chemistry,0.6,0.3,2,1,True,average
+1019,chemical bonding,chemistry,0.6,0.3,3,0,True,average
+1019,atoms and nuclei,physics,0.6,0.3,4,1,True,average
+1019,chemical bonding,chemistry,0.6,0.2432432432432432,5,1,True,average
+1019,trigonometry,mathematics,0.6,0.3,6,0,True,average
+1019,atoms and nuclei,physics,0.6,0.6853932584269663,7,1,True,average
+1019,organic chemistry,chemistry,0.3,0.3,8,0,True,average
+1019,coordination compounds,chemistry,0.6,0.3,9,1,True,average
+1019,statistics,mathematics,0.3,0.3,10,0,True,average
+1019,thermodynamics,physics,0.3,0.6853932584269663,11,1,True,average
+1019,calculus,mathematics,0.6,0.3,12,1,True,average
+1019,atoms and nuclei,physics,0.3,0.9095315024232634,13,1,True,average
+1019,thermodynamics,physics,0.4,0.9095315024232634,14,1,True,average
+1019,electrostatics,physics,0.6,0.3,15,1,True,average
+1019,thermodynamics,physics,0.3,0.978490493566353,16,1,True,average
+1019,organic chemistry,chemistry,0.3,0.2432432432432432,17,0,True,average
+1019,complex numbers,mathematics,0.6,0.3,18,1,True,average
+1019,organic chemistry,chemistry,0.3,0.2328767123287671,19,0,True,average
+1019,kinematics,physics,0.3,0.3,20,0,True,average
+1019,s block elements,chemistry,0.3,0.3,21,0,True,average
+1019,waves,physics,0.3,0.3,22,0,True,average
+1019,magnetism,physics,0.3,0.3,23,1,True,average
+1019,kinetic theory of gases,physics,0.3,0.3,24,1,True,average
+1019,hydrogen,chemistry,0.3,0.3,25,0,True,average
+1019,coordination compounds,chemistry,0.3,0.6853932584269663,26,1,True,average
+1019,equilibrium,chemistry,0.3,0.3,27,0,True,average
+1019,thermodynamics,chemistry,0.3,0.9951446840793324,28,1,True,average
+1019,chemical bonding,chemistry,0.3,0.6291390728476821,29,1,True,average
+1019,matrices,mathematics,0.6,0.3,30,1,True,average
+1019,metallurgy,chemistry,0.3,0.3,31,0,True,average
+1019,vector algebra,mathematics,0.6,0.3,32,0,True,average
+1019,metallurgy,chemistry,0.3,0.2432432432432432,33,0,True,average
+1019,calculus,mathematics,0.6,0.6853932584269663,34,1,True,average
+1019,atoms and nuclei,physics,0.3,0.978490493566353,35,0,True,average
+1020,electrostatics,physics,0.3,0.3,1,1,True,average
+1020,waves,physics,0.3,0.3,2,0,True,average
+1020,statistics,mathematics,0.3,0.3,3,1,True,average
+1020,matrices,mathematics,0.3,0.3,4,0,True,average
+1020,alcohols phenols and ethers,chemistry,0.6,0.3,5,1,True,average
+1020,dual nature of radiation,physics,0.6,0.3,6,1,True,average
+1020,atomic structure,chemistry,0.3,0.3,7,1,True,average
+1020,atoms and nuclei,physics,0.3,0.3,8,1,True,average
+1020,electrostatics,physics,0.6,0.6853932584269663,9,0,True,average
+1020,electromagnetic induction,physics,0.3,0.3,10,0,True,average
+1020,3d geometry,mathematics,0.6,0.3,11,1,True,average
+1020,periodic table,chemistry,0.3,0.3,12,0,True,average
+1020,laws of motion,physics,0.6,0.3,13,0,True,average
+1020,general organic chemistry,chemistry,0.3,0.3,14,1,True,average
+1020,s block elements,chemistry,0.3,0.3,15,0,True,average
+1020,rotational motion,physics,0.6,0.3,16,0,True,average
+1020,3d geometry,mathematics,0.6,0.6853932584269663,17,1,True,average
+1020,optics,physics,0.6,0.3,18,0,True,average
+1020,thermodynamics,physics,0.3,0.3,19,0,True,average
+1020,application of derivatives,mathematics,0.3,0.3,20,0,True,average
+1020,surface chemistry,chemistry,0.3,0.3,21,0,True,average
+1020,rotational motion,physics,0.6,0.2432432432432432,22,0,True,average
+1020,haloalkanes and haloarenes,chemistry,0.3,0.3,23,0,True,average
+1020,magnetic effects of current,physics,0.6,0.3,24,1,True,average
+1020,surface chemistry,chemistry,0.3,0.2432432432432432,25,0,True,average
+1020,trigonometry,mathematics,0.6,0.3,26,0,True,average
+1020,alcohols phenols and ethers,chemistry,0.3,0.6853932584269663,27,1,True,average
+1020,3d geometry,mathematics,0.6,0.9095315024232634,28,1,True,average
+1020,magnetic effects of current,physics,0.3,0.6853932584269663,29,1,True,average
+1020,periodic table,chemistry,0.3,0.2432432432432432,30,1,True,average
+1020,atoms and nuclei,physics,0.3,0.6853932584269663,31,1,True,average
+1020,organic chemistry,chemistry,0.3,0.3,32,0,True,average
+1020,organic chemistry,chemistry,0.6,0.2432432432432432,33,1,True,average
+1020,definite integration,mathematics,0.6,0.3,34,1,True,average
+1020,atoms and nuclei,physics,0.6,0.9095315024232634,35,1,True,average
+1021,definite integration,mathematics,0.3,0.3,1,1,True,average
+1021,kinematics,physics,0.3,0.3,2,0,True,average
+1021,calculus,mathematics,0.6,0.3,3,1,True,average
+1021,coordinate geometry,mathematics,0.6,0.3,4,0,True,average
+1021,3d geometry,mathematics,0.6,0.3,5,0,True,average
+1021,trigonometry,mathematics,0.6,0.3,6,1,True,average
+1021,metallurgy,chemistry,0.3,0.3,7,0,True,average
+1021,modern physics,physics,0.6,0.3,8,1,True,average
+1021,3d geometry,mathematics,0.6,0.2432432432432432,9,0,True,average
+1021,electrostatics,physics,0.6,0.3,10,1,True,average
+1021,trigonometry,mathematics,0.6,0.6853932584269663,11,1,True,average
+1021,kinematics,physics,0.3,0.2432432432432432,12,0,True,average
+1021,atoms and nuclei,physics,0.3,0.3,13,1,True,average
+1021,electromagnetic induction,physics,0.6,0.3,14,1,True,average
+1021,trigonometry,mathematics,0.6,0.9095315024232634,15,1,True,average
+1021,p block elements,chemistry,0.6,0.3,16,1,True,average
+1021,optics,physics,0.3,0.3,17,1,True,average
+1021,3d geometry,mathematics,0.6,0.2328767123287671,18,0,True,average
+1021,chemical bonding,chemistry,0.6,0.3,19,0,True,average
+1021,trigonometry,mathematics,0.6,0.978490493566353,20,1,True,average
+1021,laws of motion,physics,0.3,0.3,21,0,True,average
+1021,matrices,mathematics,0.6,0.3,22,0,True,average
+1021,kinematics,physics,0.6,0.2328767123287671,23,0,True,average
+1021,dual nature of radiation,physics,0.3,0.3,24,1,True,average
+1021,electrochemistry,chemistry,0.3,0.3,25,0,True,average
+1021,magnetic effects of current,physics,0.6,0.3,26,0,True,average
+1021,redox reactions,chemistry,0.6,0.3,27,0,True,average
+1021,magnetic effects of current,physics,0.9,0.2432432432432432,28,0,True,average
+1021,magnetic effects of current,physics,0.3,0.2328767123287671,29,0,True,average
+1021,matrices,mathematics,0.6,0.2432432432432432,30,0,True,average
+1021,application of derivatives,mathematics,0.6,0.3,31,1,True,average
+1021,waves,physics,0.6,0.3,32,0,True,average
+1021,electrostatics,physics,0.6,0.6853932584269663,33,1,True,average
+1021,calculus,mathematics,0.6,0.6853932584269663,34,0,True,average
+1021,atomic structure,chemistry,0.6,0.3,35,1,True,average
+1022,coordinate geometry,mathematics,0.6,0.3,1,1,True,average
+1022,chemical kinetics,chemistry,0.3,0.3,2,0,True,average
+1022,atomic structure,chemistry,0.3,0.3,3,0,True,average
+1022,electrochemistry,chemistry,0.6,0.3,4,0,True,average
+1022,calculus,mathematics,0.6,0.3,5,0,True,average
+1022,thermodynamics,physics,0.6,0.3,6,1,True,average
+1022,electrostatics,physics,0.6,0.3,7,0,True,average
+1022,p block elements,chemistry,0.3,0.3,8,0,True,average
+1022,kinematics,physics,0.3,0.3,9,1,True,average
+1022,statistics,mathematics,0.6,0.3,10,0,True,average
+1022,electromagnetic induction,physics,0.3,0.3,11,0,True,average
+1022,redox reactions,chemistry,0.6,0.3,12,0,True,average
+1022,magnetic effects of current,physics,0.3,0.3,13,0,True,average
+1022,thermodynamics,chemistry,0.3,0.6853932584269663,14,1,True,average
+1022,solutions,chemistry,0.6,0.3,15,0,True,average
+1022,definite integration,mathematics,0.6,0.3,16,0,True,average
+1022,matrices,mathematics,0.6,0.3,17,0,True,average
+1022,p block elements,chemistry,0.3,0.2432432432432432,18,1,True,average
+1022,haloalkanes and haloarenes,chemistry,0.6,0.3,19,1,True,average
+1022,electrostatics,physics,0.3,0.2432432432432432,20,1,True,average
+1022,rotational motion,physics,0.6,0.3,21,1,True,average
+1022,statistics,mathematics,0.6,0.2432432432432432,22,1,True,average
+1022,kinematics,physics,0.3,0.6853932584269663,23,1,True,average
+1022,electrostatics,physics,0.6,0.6291390728476821,24,1,True,average
+1022,coordination compounds,chemistry,0.3,0.3,25,0,True,average
+1022,binomial theorem,mathematics,0.6,0.3,26,1,True,average
+1022,statistics,mathematics,0.6,0.6291390728476821,27,1,True,average
+1022,application of derivatives,mathematics,0.6,0.3,28,0,True,average
+1022,periodic table,chemistry,0.3,0.3,29,0,True,average
+1022,modern physics,physics,0.6,0.3,30,0,True,average
+1022,solutions,chemistry,0.3,0.2432432432432432,31,0,True,average
+1022,kinematics,physics,0.6,0.9095315024232634,32,1,True,average
+1022,aldehydes and ketones,chemistry,0.6,0.3,33,0,True,average
+1022,trigonometry,mathematics,0.3,0.3,34,1,True,average
+1022,probability,mathematics,0.6,0.3,35,1,True,average
+1023,optics,physics,0.3,0.3,1,1,True,average
+1023,dual nature of radiation,physics,0.6,0.3,2,0,True,average
+1023,magnetic effects of current,physics,0.3,0.3,3,1,True,average
+1023,magnetic effects of current,physics,0.6,0.6853932584269663,4,0,True,average
+1023,quadratic equations,mathematics,0.3,0.3,5,1,True,average
+1023,d and f block elements,chemistry,0.3,0.3,6,0,True,average
+1023,d and f block elements,chemistry,0.6,0.2432432432432432,7,0,True,average
+1023,metallurgy,chemistry,0.3,0.3,8,1,True,average
+1023,electrostatics,physics,0.6,0.3,9,0,True,average
+1023,probability,mathematics,0.6,0.3,10,1,True,average
+1023,coordinate geometry,mathematics,0.6,0.3,11,0,True,average
+1023,p block elements,chemistry,0.3,0.3,12,1,True,average
+1023,organic chemistry,chemistry,0.3,0.3,13,1,True,average
+1023,organic chemistry,chemistry,0.3,0.6853932584269663,14,1,True,average
+1023,biomolecules,chemistry,0.3,0.3,15,1,True,average
+1023,coordination compounds,chemistry,0.3,0.3,16,0,True,average
+1023,biomolecules,chemistry,0.3,0.6853932584269663,17,0,True,average
+1023,dual nature of radiation,physics,0.6,0.2432432432432432,18,0,True,average
+1023,equilibrium,chemistry,0.3,0.3,19,1,True,average
+1023,laws of motion,physics,0.3,0.3,20,0,True,average
+1023,atoms and nuclei,physics,0.6,0.3,21,0,True,average
+1023,thermodynamics,physics,0.3,0.3,22,1,True,average
+1023,aldehydes and ketones,chemistry,0.6,0.3,23,0,True,average
+1023,calculus,mathematics,0.6,0.3,24,1,True,average
+1023,thermodynamics,physics,0.3,0.6853932584269663,25,0,True,average
+1023,electrostatics,physics,0.6,0.2432432432432432,26,1,True,average
+1023,electrochemistry,chemistry,0.3,0.3,27,0,True,average
+1023,thermodynamics,physics,0.3,0.3800738007380074,28,1,True,average
+1023,gravitation,physics,0.6,0.3,29,0,True,average
+1023,complex numbers,mathematics,0.6,0.3,30,0,True,average
+1023,biomolecules,chemistry,0.6,0.3800738007380074,31,0,True,average
+1023,p block elements,chemistry,0.3,0.6853932584269663,32,1,True,average
+1023,thermodynamics,chemistry,0.3,0.7505567928730512,33,1,True,average
+1023,atomic structure,chemistry,0.6,0.3,34,1,True,average
+1023,atomic structure,chemistry,0.3,0.6853932584269663,35,1,True,average
+1024,waves,physics,0.6,0.3,1,1,True,average
+1024,coordination compounds,chemistry,0.3,0.3,2,1,True,average
+1024,organic chemistry,chemistry,0.3,0.3,3,1,True,average
+1024,statistics,mathematics,0.6,0.3,4,0,True,average
+1024,rotational motion,physics,0.6,0.3,5,1,True,average
+1024,calculus,mathematics,0.3,0.3,6,1,True,average
+1024,probability,mathematics,0.6,0.3,7,0,True,average
+1024,complex numbers,mathematics,0.6,0.3,8,0,True,average
+1024,complex numbers,mathematics,0.9,0.2432432432432432,9,1,True,average
+1024,genetics,biology,0.7,0.3,10,1,True,average
+1024,aldehydes and ketones,chemistry,0.3,0.3,11,1,True,average
+1024,atoms and nuclei,physics,0.6,0.3,12,1,True,average
+1024,rotational motion,physics,0.6,0.6853932584269663,13,0,True,average
+1024,anatomy of flowering plants,biology,0.5,0.3,14,1,True,average
+1024,probability,mathematics,0.6,0.2432432432432432,15,1,True,average
+1024,periodic table,chemistry,0.3,0.3,16,0,True,average
+1024,thermodynamics,chemistry,0.6,0.3,17,1,True,average
+1024,gravitation,physics,0.6,0.3,18,0,True,average
+1024,equilibrium,chemistry,0.3,0.3,19,0,True,average
+1024,aldehydes and ketones,chemistry,0.3,0.6853932584269663,20,1,True,average
+1024,thermodynamics,physics,0.3,0.6853932584269663,21,0,True,average
+1024,modern physics,physics,0.3,0.3,22,0,True,average
+1024,statistics,mathematics,0.6,0.2432432432432432,23,0,True,average
+1024,atomic structure,chemistry,0.6,0.3,24,1,True,average
+1024,trigonometry,mathematics,0.6,0.3,25,0,True,average
+1024,application of derivatives,mathematics,0.3,0.3,26,0,True,average
+1024,thermodynamics,physics,0.6,0.3800738007380074,27,0,True,average
+1024,3d geometry,mathematics,0.6,0.3,28,1,True,average
+1024,dual nature of radiation,physics,0.3,0.3,29,1,True,average
+1024,aldehydes and ketones,chemistry,0.3,0.9095315024232634,30,1,True,average
+1024,thermodynamics,physics,0.3,0.260454878943507,31,1,True,average
+1024,application of derivatives,mathematics,0.6,0.2432432432432432,32,0,True,average
+1024,thermodynamics,physics,0.6,0.6472440944881891,33,1,True,average
+1024,coordination compounds,chemistry,0.6,0.6853932584269663,34,0,True,average
+1024,electrostatics,physics,0.3,0.3,35,0,True,average
+1025,hydrogen,chemistry,0.3,0.3,1,1,True,average
+1025,genetics,biology,0.7,0.3,2,1,True,average
+1025,electrochemistry,chemistry,0.6,0.3,3,1,True,average
+1025,modern physics,physics,0.3,0.3,4,0,True,average
+1025,thermodynamics,physics,0.6,0.3,5,1,True,average
+1025,chemical kinetics,chemistry,0.3,0.3,6,1,True,average
+1025,aldehydes and ketones,chemistry,0.3,0.3,7,1,True,average
+1025,trigonometry,mathematics,0.3,0.3,8,0,True,average
+1025,aldehydes and ketones,chemistry,0.6,0.6853932584269663,9,1,True,average
+1025,waves,physics,0.6,0.3,10,0,True,average
+1025,waves,physics,0.6,0.2432432432432432,11,0,True,average
+1025,electrostatics,physics,0.3,0.3,12,0,True,average
+1025,circles,mathematics,0.5,0.3,13,1,True,average
+1025,chemical bonding,chemistry,0.3,0.3,14,0,True,average
+1025,dual nature of radiation,physics,0.6,0.3,15,0,True,average
+1025,thermodynamics,chemistry,0.3,0.6853932584269663,16,1,True,average
+1025,laws of motion,physics,0.6,0.3,17,0,True,average
+1025,gravitation,physics,0.3,0.3,18,1,True,average
+1025,circles,mathematics,0.5,0.6853932584269663,19,0,True,average
+1025,haloalkanes and haloarenes,chemistry,0.6,0.3,20,0,True,average
+1025,atomic structure,chemistry,0.6,0.3,21,0,True,average
+1025,organic chemistry,chemistry,0.3,0.3,22,0,True,average
+1025,gravitation,physics,0.3,0.6853932584269663,23,1,True,average
+1025,magnetic effects of current,physics,0.3,0.3,24,1,True,average
+1025,aldehydes and ketones,chemistry,0.6,0.9095315024232634,25,1,True,average
+1025,complex numbers,mathematics,0.6,0.3,26,1,True,average
+1025,atoms and nuclei,physics,0.6,0.3,27,0,True,average
+1025,p block elements,chemistry,0.6,0.3,28,0,True,average
+1025,periodic table,chemistry,0.3,0.3,29,1,True,average
+1025,optics,physics,0.6,0.3,30,0,True,average
+1025,p block elements,chemistry,0.3,0.2432432432432432,31,0,True,average
+1025,electrochemistry,chemistry,0.3,0.6853932584269663,32,1,True,average
+1025,p block elements,chemistry,0.3,0.2328767123287671,33,0,True,average
+1025,gravitation,physics,0.6,0.9095315024232634,34,1,True,average
+1025,thermodynamics,chemistry,0.3,0.9095315024232634,35,0,True,average
+1026,chemical bonding,chemistry,0.3,0.3,1,1,True,average
+1026,electrochemistry,chemistry,0.6,0.3,2,0,True,average
+1026,definite integration,mathematics,0.6,0.3,3,0,True,average
+1026,atomic structure,chemistry,0.6,0.3,4,1,True,average
+1026,calculus,mathematics,0.6,0.3,5,0,True,average
+1026,life processes,science,0.25,0.3,6,0,True,average
+1026,organic chemistry,chemistry,0.3,0.3,7,0,True,average
+1026,aldehydes and ketones,chemistry,0.3,0.3,8,0,True,average
+1026,electrostatics,physics,0.6,0.3,9,1,True,average
+1026,coordinate geometry,mathematics,0.6,0.3,10,0,True,average
+1026,thermodynamics,physics,0.3,0.3,11,1,True,average
+1026,d and f block elements,chemistry,0.3,0.3,12,1,True,average
+1026,p block elements,chemistry,0.3,0.3,13,0,True,average
+1026,3d geometry,mathematics,0.6,0.3,14,0,True,average
+1026,atomic structure,chemistry,0.3,0.6853932584269663,15,0,True,average
+1026,application of derivatives,mathematics,0.6,0.3,16,1,True,average
+1026,s block elements,chemistry,0.3,0.3,17,0,True,average
+1026,statistics,mathematics,0.3,0.3,18,0,True,average
+1026,thermodynamics,physics,0.3,0.6853932584269663,19,1,True,average
+1026,rotational motion,physics,0.6,0.3,20,1,True,average
+1026,thermodynamics,physics,0.3,0.9095315024232634,21,1,True,average
+1026,metallurgy,chemistry,0.3,0.3,22,1,True,average
+1026,atomic structure,chemistry,0.6,0.3800738007380074,23,0,True,average
+1026,d and f block elements,chemistry,0.6,0.6853932584269663,24,1,True,average
+1026,definite integration,mathematics,0.6,0.2432432432432432,25,0,True,average
+1026,thermodynamics,chemistry,0.3,0.978490493566353,26,1,True,average
+1026,thermodynamics,chemistry,0.3,0.9951446840793324,27,1,True,average
+1026,probability,mathematics,0.6,0.3,28,0,True,average
+1026,dual nature of radiation,physics,0.3,0.3,29,0,True,average
+1026,matrices,mathematics,0.6,0.3,30,0,True,average
+1026,organic chemistry,chemistry,0.3,0.2432432432432432,31,1,True,average
+1026,aldehydes and ketones,chemistry,0.6,0.2432432432432432,32,0,True,average
+1026,electrochemistry,chemistry,0.3,0.2432432432432432,33,0,True,average
+1026,rotational motion,physics,0.6,0.6853932584269663,34,1,True,average
+1026,matrices,mathematics,0.6,0.2432432432432432,35,1,True,average
+1027,3d geometry,mathematics,0.6,0.3,1,0,True,average
+1027,vector algebra,mathematics,0.3,0.3,2,1,True,average
+1027,d and f block elements,chemistry,0.3,0.3,3,0,True,average
+1027,biomolecules,chemistry,0.3,0.3,4,1,True,average
+1027,thermodynamics,chemistry,0.6,0.3,5,1,True,average
+1027,complex numbers,mathematics,0.6,0.3,6,0,True,average
+1027,p block elements,chemistry,0.6,0.3,7,1,True,average
+1027,matrices,mathematics,0.3,0.3,8,1,True,average
+1027,chemical bonding,chemistry,0.6,0.3,9,0,True,average
+1027,thermodynamics,physics,0.6,0.6853932584269663,10,1,True,average
+1027,gravitation,physics,0.6,0.3,11,1,True,average
+1027,application of derivatives,mathematics,0.6,0.3,12,0,True,average
+1027,organic chemistry,chemistry,0.6,0.3,13,0,True,average
+1027,thermodynamics,physics,0.6,0.9095315024232634,14,0,True,average
+1027,differential equations,mathematics,0.5,0.3,15,0,True,average
+1027,electrostatics,physics,0.3,0.3,16,1,True,average
+1027,thermodynamics,physics,0.6,0.6581892166836218,17,1,True,average
+1027,p block elements,chemistry,0.3,0.6853932584269663,18,1,True,average
+1027,electrostatics,physics,0.6,0.6853932584269663,19,0,True,average
+1027,probability,mathematics,0.9,0.3,20,0,True,average
+1027,electromagnetic induction,physics,0.6,0.3,21,0,True,average
+1027,thermodynamics,physics,0.3,0.8991445294912203,22,0,True,average
+1027,waves,physics,0.3,0.3,23,1,True,average
+1027,organic chemistry,chemistry,0.3,0.2432432432432432,24,0,True,average
+1027,waves,physics,0.6,0.6853932584269663,25,1,True,average
+1027,laws of motion,physics,0.3,0.3,26,1,True,average
+1027,differential equations,mathematics,0.5,0.2432432432432432,27,1,True,average
+1027,atomic structure,chemistry,0.3,0.3,28,1,True,average
+1027,chemical bonding,chemistry,0.3,0.2432432432432432,29,1,True,average
+1027,coordinate geometry,mathematics,0.6,0.3,30,1,True,average
+1027,alcohols phenols and ethers,chemistry,0.3,0.3,31,0,True,average
+1027,application of derivatives,mathematics,0.3,0.2432432432432432,32,1,True,average
+1027,electrochemistry,chemistry,0.6,0.3,33,0,True,average
+1027,definite integration,mathematics,0.6,0.3,34,1,True,average
+1027,d and f block elements,chemistry,0.6,0.2432432432432432,35,0,True,average
+1028,atoms and nuclei,physics,0.6,0.3,1,0,True,average
+1028,s block elements,chemistry,0.3,0.3,2,0,True,average
+1028,rotational motion,physics,0.6,0.3,3,0,True,average
+1028,atoms and nuclei,physics,0.6,0.2432432432432432,4,0,True,average
+1028,calculus,mathematics,0.6,0.3,5,0,True,average
+1028,optics,physics,0.6,0.3,6,1,True,average
+1028,definite integration,mathematics,0.6,0.3,7,1,True,average
+1028,coordination compounds,chemistry,0.6,0.3,8,0,True,average
+1028,organic chemistry,chemistry,0.3,0.3,9,1,True,average
+1028,electromagnetic induction,physics,0.3,0.3,10,0,True,average
+1028,chemical bonding,chemistry,0.3,0.3,11,0,True,average
+1028,aldehydes and ketones,chemistry,0.3,0.3,12,1,True,average
+1028,dual nature of radiation,physics,0.6,0.3,13,0,True,average
+1028,p block elements,chemistry,0.3,0.3,14,1,True,average
+1028,organic chemistry,chemistry,0.3,0.6853932584269663,15,1,True,average
+1028,electrostatics,physics,0.3,0.3,16,0,True,average
+1028,electrostatics,physics,0.6,0.2432432432432432,17,1,True,average
+1028,periodic table,chemistry,0.3,0.3,18,0,True,average
+1028,laws of motion,physics,0.6,0.3,19,0,True,average
+1028,modern physics,physics,0.3,0.3,20,1,True,average
+1028,chemical kinetics,chemistry,0.3,0.3,21,1,True,average
+1028,rotational motion,physics,0.6,0.2432432432432432,22,0,True,average
+1028,complex numbers,mathematics,0.6,0.3,23,0,True,average
+1028,electromagnetic induction,physics,0.6,0.2432432432432432,24,0,True,average
+1028,application of derivatives,mathematics,0.6,0.3,25,0,True,average
+1028,complex numbers,mathematics,0.6,0.2432432432432432,26,0,True,average
+1028,atomic structure,chemistry,0.6,0.3,27,1,True,average
+1028,atomic structure,chemistry,0.6,0.6853932584269663,28,1,True,average
+1028,matrices,mathematics,0.6,0.3,29,0,True,average
+1028,atoms and nuclei,physics,0.3,0.2328767123287671,30,1,True,average
+1028,calculus,mathematics,0.6,0.2432432432432432,31,1,True,average
+1028,metallurgy,chemistry,0.3,0.3,32,0,True,average
+1028,application of derivatives,mathematics,0.6,0.2432432432432432,33,1,True,average
+1028,calculus,mathematics,0.6,0.6291390728476821,34,1,True,average
+1028,surface chemistry,chemistry,0.3,0.3,35,0,True,average
+1029,rotational motion,physics,0.3,0.3,1,0,True,average
+1029,organic chemistry,chemistry,0.3,0.3,2,0,True,average
+1029,chemical bonding,chemistry,0.3,0.3,3,0,True,average
+1029,organic chemistry,chemistry,0.3,0.2432432432432432,4,1,True,average
+1029,thermodynamics,physics,0.3,0.3,5,0,True,average
+1029,thermodynamics,physics,0.3,0.2432432432432432,6,1,True,average
+1029,aldehydes and ketones,chemistry,0.6,0.3,7,0,True,average
+1029,modern physics,physics,0.3,0.3,8,1,True,average
+1029,electrochemistry,chemistry,0.3,0.3,9,0,True,average
+1029,haloalkanes and haloarenes,chemistry,0.3,0.3,10,1,True,average
+1029,chemical kinetics,chemistry,0.3,0.3,11,0,True,average
+1029,magnetic effects of current,physics,0.3,0.3,12,1,True,average
+1029,circles,mathematics,0.5,0.3,13,0,True,average
+1029,complex numbers,mathematics,0.6,0.3,14,1,True,average
+1029,aldehydes and ketones,chemistry,0.6,0.2432432432432432,15,0,True,average
+1029,trigonometry,mathematics,0.6,0.3,16,1,True,average
+1029,organic chemistry,chemistry,0.3,0.6291390728476821,17,1,True,average
+1029,magnetic effects of current,physics,0.6,0.6853932584269663,18,1,True,average
+1029,solutions,chemistry,0.3,0.3,19,0,True,average
+1029,electrostatics,physics,0.3,0.3,20,0,True,average
+1029,matrices,mathematics,0.6,0.3,21,0,True,average
+1029,organic chemistry,chemistry,0.6,0.8874371859296482,22,1,True,average
+1029,calculus,mathematics,0.6,0.3,23,0,True,average
+1029,application of derivatives,mathematics,0.6,0.3,24,0,True,average
+1029,chemical bonding,chemistry,0.6,0.2432432432432432,25,1,True,average
+1029,atomic structure,chemistry,0.3,0.3,26,0,True,average
+1029,electrostatics,physics,0.3,0.2432432432432432,27,0,True,average
+1029,electrostatics,physics,0.3,0.2328767123287671,28,0,True,average
+1029,p block elements,chemistry,0.3,0.3,29,0,True,average
+1029,modern physics,physics,0.3,0.6853932584269663,30,0,True,average
+1029,equilibrium,chemistry,0.3,0.3,31,0,True,average
+1029,organic chemistry,chemistry,0.6,0.9727725780965116,32,1,True,average
+1029,complex numbers,mathematics,0.6,0.6853932584269663,33,0,True,average
+1029,periodic table,chemistry,0.6,0.3,34,0,True,average
+1029,p block elements,chemistry,0.6,0.2432432432432432,35,0,True,average
+1030,coordination compounds,chemistry,0.6,0.2,1,0,True,struggling
+1030,matrices,mathematics,0.6,0.2,2,0,True,struggling
+1030,atomic structure,chemistry,0.6,0.2,3,1,True,struggling
+1030,chemical bonding,chemistry,0.6,0.2,4,1,True,struggling
+1030,chemical bonding,chemistry,0.5,0.5,5,0,True,struggling
+1030,electromagnetic induction,physics,0.3,0.2,6,0,True,struggling
+1030,equilibrium,chemistry,0.3,0.2,7,0,True,struggling
+1030,complex numbers,mathematics,0.6,0.2,8,0,True,struggling
+1030,solutions,chemistry,0.3,0.2,9,0,True,struggling
+1030,calculus,mathematics,0.6,0.2,10,1,True,struggling
+1030,3d geometry,mathematics,0.6,0.2,11,1,True,struggling
+1030,magnetism,physics,0.3,0.2,12,0,True,struggling
+1030,aldehydes and ketones,chemistry,0.6,0.2,13,1,True,struggling
+1030,optics,physics,0.3,0.2,14,0,True,struggling
+1030,kinematics,physics,0.6,0.2,15,0,True,struggling
+1030,periodic table,chemistry,0.3,0.2,16,0,True,struggling
+1030,biomolecules,chemistry,0.3,0.2,17,0,True,struggling
+1030,organic chemistry,chemistry,0.3,0.2,18,0,True,struggling
+1030,application of derivatives,mathematics,0.6,0.2,19,0,True,struggling
+1030,kinematics,physics,0.6,0.15625,20,1,True,struggling
+1030,calculus,mathematics,0.6,0.5,21,1,True,struggling
+1030,organic chemistry,chemistry,0.3,0.15625,22,1,True,struggling
+1030,redox reactions,chemistry,0.6,0.2,23,0,True,struggling
+1030,definite integration,mathematics,0.6,0.2,24,1,True,struggling
+1030,gravitation,physics,0.3,0.2,25,0,True,struggling
+1030,chemical kinetics,chemistry,0.3,0.2,26,0,True,struggling
+1030,coordination compounds,chemistry,0.6,0.15625,27,0,True,struggling
+1030,biomolecules,chemistry,0.6,0.15625,28,0,True,struggling
+1030,atoms and nuclei,physics,0.3,0.2,29,0,True,struggling
+1030,thermodynamics,physics,0.3,0.2,30,1,True,struggling
+1030,atomic structure,chemistry,0.3,0.5,31,1,True,struggling
+1030,coordinate geometry,mathematics,0.6,0.2,32,0,True,struggling
+1030,rotational motion,physics,0.6,0.2,33,1,True,struggling
+1030,definite integration,mathematics,0.9,0.5,34,1,True,struggling
+1030,general organic chemistry,chemistry,0.3,0.2,35,0,True,struggling
+1031,kinematics,physics,0.3,0.2,1,0,True,struggling
+1031,electromagnetic induction,physics,0.6,0.2,2,0,True,struggling
+1031,coordination compounds,chemistry,0.6,0.2,3,0,True,struggling
+1031,biomolecules,chemistry,0.3,0.2,4,1,True,struggling
+1031,solutions,chemistry,0.3,0.2,5,0,True,struggling
+1031,3d geometry,mathematics,0.6,0.2,6,0,True,struggling
+1031,hydrogen,chemistry,0.3,0.2,7,0,True,struggling
+1031,coordinate geometry,mathematics,0.6,0.2,8,1,True,struggling
+1031,laws of motion,physics,0.5,0.2,9,0,True,struggling
+1031,atoms and nuclei,physics,0.6,0.2,10,0,True,struggling
+1031,probability,mathematics,0.9,0.2,11,0,True,struggling
+1031,atomic structure,chemistry,0.3,0.2,12,1,True,struggling
+1031,aldehydes and ketones,chemistry,0.6,0.2,13,1,True,struggling
+1031,organic chemistry,chemistry,0.3,0.2,14,1,True,struggling
+1031,haloalkanes and haloarenes,chemistry,0.3,0.2,15,0,True,struggling
+1031,general organic chemistry,chemistry,0.6,0.2,16,0,True,struggling
+1031,kinetic theory of gases,physics,0.3,0.2,17,0,True,struggling
+1031,organic chemistry,chemistry,0.3,0.5,18,1,True,struggling
+1031,amines,chemistry,0.6,0.2,19,0,True,struggling
+1031,rotational motion,physics,0.6,0.2,20,0,True,struggling
+1031,matrices,mathematics,0.6,0.2,21,0,True,struggling
+1031,general organic chemistry,chemistry,0.3,0.15625,22,0,True,struggling
+1031,biomolecules,chemistry,0.6,0.5,23,1,True,struggling
+1031,laws of motion,physics,0.6,0.15625,24,1,True,struggling
+1031,3d geometry,mathematics,0.6,0.15625,25,0,True,struggling
+1031,application of derivatives,mathematics,0.6,0.2,26,0,True,struggling
+1031,electrostatics,physics,0.9,0.2,27,0,True,struggling
+1031,thermodynamics,physics,0.3,0.2,28,0,True,struggling
+1031,magnetic effects of current,physics,0.6,0.2,29,1,True,struggling
+1031,equilibrium,chemistry,0.6,0.2,30,0,True,struggling
+1031,chemical bonding,chemistry,0.3,0.2,31,1,True,struggling
+1031,rotational motion,physics,0.3,0.15625,32,0,True,struggling
+1031,coordination compounds,chemistry,0.6,0.15625,33,0,True,struggling
+1031,calculus,mathematics,0.6,0.2,34,0,True,struggling
+1031,general organic chemistry,chemistry,0.6,0.1423529411764705,35,0,True,struggling
+1032,atomic structure,chemistry,0.6,0.2,1,1,True,struggling
+1032,atoms and nuclei,physics,0.3,0.2,2,0,True,struggling
+1032,coordination compounds,chemistry,0.6,0.2,3,1,True,struggling
+1032,3d geometry,mathematics,0.6,0.2,4,1,True,struggling
+1032,hydrogen,chemistry,0.3,0.2,5,0,True,struggling
+1032,laws of motion,physics,0.6,0.2,6,0,True,struggling
+1032,calculus,mathematics,0.6,0.2,7,1,True,struggling
+1032,periodic table,chemistry,0.6,0.2,8,0,True,struggling
+1032,dual nature of radiation,physics,0.6,0.2,9,1,True,struggling
+1032,general organic chemistry,chemistry,0.3,0.2,10,1,True,struggling
+1032,atomic structure,chemistry,0.3,0.5,11,1,True,struggling
+1032,coordination compounds,chemistry,0.6,0.5,12,1,True,struggling
+1032,p block elements,chemistry,0.3,0.2,13,0,True,struggling
+1032,thermodynamics,physics,0.3,0.2,14,0,True,struggling
+1032,3d geometry,mathematics,0.6,0.5,15,0,True,struggling
+1032,biomolecules,chemistry,0.3,0.2,16,0,True,struggling
+1032,atoms and nuclei,physics,0.3,0.15625,17,0,True,struggling
+1032,statistics,mathematics,0.6,0.2,18,1,True,struggling
+1032,coordination compounds,chemistry,0.6,0.7857142857142857,19,1,True,struggling
+1032,surface chemistry,chemistry,0.3,0.2,20,0,True,struggling
+1032,atomic structure,chemistry,0.3,0.7857142857142857,21,1,True,struggling
+1032,electrostatics,physics,0.6,0.2,22,0,True,struggling
+1032,gravitation,physics,0.6,0.2,23,0,True,struggling
+1032,calculus,mathematics,0.9,0.5,24,1,True,struggling
+1032,kinematics,physics,0.6,0.2,25,0,True,struggling
+1032,p block elements,chemistry,0.3,0.15625,26,0,True,struggling
+1032,equilibrium,chemistry,0.3,0.2,27,0,True,struggling
+1032,solid state,chemistry,0.3,0.2,28,0,True,struggling
+1032,thermodynamics,chemistry,0.3,0.15625,29,1,True,struggling
+1032,electrostatics,physics,0.9,0.15625,30,0,True,struggling
+1032,electrostatics,physics,0.6,0.1423529411764705,31,0,True,struggling
+1032,trigonometry,mathematics,0.6,0.2,32,0,True,struggling
+1032,electrostatics,physics,0.6,0.1381469480690078,33,1,True,struggling
+1032,modern physics,physics,0.3,0.2,34,0,True,struggling
+1032,optics,physics,0.6,0.2,35,0,True,struggling
+1033,thermodynamics,physics,0.6,0.2,1,0,True,struggling
+1033,electrochemistry,chemistry,0.6,0.2,2,0,True,struggling
+1033,magnetic effects of current,physics,0.6,0.2,3,0,True,struggling
+1033,calculus,mathematics,0.9,0.2,4,1,True,struggling
+1033,application of derivatives,mathematics,0.6,0.2,5,1,True,struggling
+1033,optics,physics,0.6,0.2,6,1,True,struggling
+1033,kinematics,physics,0.3,0.2,7,1,True,struggling
+1033,definite integration,mathematics,0.6,0.2,8,0,True,struggling
+1033,amines,chemistry,0.3,0.2,9,0,True,struggling
+1033,organic chemistry,chemistry,0.3,0.2,10,0,True,struggling
+1033,waves,physics,0.3,0.2,11,0,True,struggling
+1033,periodic table,chemistry,0.6,0.2,12,0,True,struggling
+1033,atoms and nuclei,physics,0.9,0.2,13,0,True,struggling
+1033,biomolecules,chemistry,0.3,0.2,14,0,True,struggling
+1033,organic chemistry,chemistry,0.3,0.15625,15,0,True,struggling
+1033,biomolecules,chemistry,0.3,0.15625,16,1,True,struggling
+1033,metallurgy,chemistry,0.3,0.2,17,0,True,struggling
+1033,complex numbers,mathematics,0.6,0.2,18,0,True,struggling
+1033,equilibrium,chemistry,0.6,0.2,19,0,True,struggling
+1033,binomial theorem,mathematics,0.6,0.2,20,1,True,struggling
+1033,organic chemistry,chemistry,0.3,0.1423529411764705,21,1,True,struggling
+1033,matrices,mathematics,0.6,0.2,22,1,True,struggling
+1033,s block elements,chemistry,0.6,0.2,23,0,True,struggling
+1033,trigonometry,mathematics,0.6,0.2,24,1,True,struggling
+1033,metallurgy,chemistry,0.3,0.15625,25,0,True,struggling
+1033,application of derivatives,mathematics,0.6,0.5,26,0,True,struggling
+1033,metallurgy,chemistry,0.3,0.1423529411764705,27,0,True,struggling
+1033,gravitation,physics,0.6,0.2,28,0,True,struggling
+1033,surface chemistry,chemistry,0.3,0.2,29,0,True,struggling
+1033,calculus,mathematics,0.9,0.5,30,1,True,struggling
+1033,dual nature of radiation,physics,0.6,0.2,31,1,True,struggling
+1033,metallurgy,chemistry,0.3,0.1381469480690078,32,0,True,struggling
+1033,modern physics,physics,0.3,0.2,33,1,True,struggling
+1033,dual nature of radiation,physics,0.6,0.5,34,0,True,struggling
+1033,complex numbers,mathematics,0.6,0.15625,35,0,True,struggling
+1034,coordination compounds,chemistry,0.6,0.2,1,1,True,struggling
+1034,electrochemistry,chemistry,0.3,0.2,2,0,True,struggling
+1034,application of derivatives,mathematics,0.6,0.2,3,0,True,struggling
+1034,laws of motion,physics,0.6,0.2,4,1,True,struggling
+1034,calculus,mathematics,0.6,0.2,5,1,True,struggling
+1034,atomic structure,chemistry,0.3,0.2,6,0,True,struggling
+1034,binomial theorem,mathematics,0.6,0.2,7,0,True,struggling
+1034,trigonometry,mathematics,0.6,0.2,8,0,True,struggling
+1034,waves,physics,0.3,0.2,9,0,True,struggling
+1034,statistics,mathematics,0.6,0.2,10,0,True,struggling
+1034,calculus,mathematics,0.9,0.5,11,0,True,struggling
+1034,coordination compounds,chemistry,0.6,0.5,12,1,True,struggling
+1034,metallurgy,chemistry,0.3,0.2,13,0,True,struggling
+1034,surface chemistry,chemistry,0.3,0.2,14,0,True,struggling
+1034,alcohols phenols and ethers,chemistry,0.3,0.2,15,0,True,struggling
+1034,organic chemistry,chemistry,0.3,0.2,16,1,True,struggling
+1034,laws of motion,physics,0.3,0.5,17,1,True,struggling
+1034,binomial theorem,mathematics,0.6,0.15625,18,1,True,struggling
+1034,anatomy of flowering plants,biology,0.5,0.2,19,0,True,struggling
+1034,organic chemistry,chemistry,0.3,0.5,20,1,True,struggling
+1034,equilibrium,chemistry,0.3,0.2,21,0,True,struggling
+1034,biomolecules,chemistry,0.3,0.2,22,0,True,struggling
+1034,hydrogen,chemistry,0.3,0.2,23,0,True,struggling
+1034,atomic structure,chemistry,0.3,0.15625,24,1,True,struggling
+1034,thermodynamics,chemistry,0.6,0.2,25,0,True,struggling
+1034,surface chemistry,chemistry,0.3,0.15625,26,1,True,struggling
+1034,complex numbers,mathematics,0.3,0.2,27,0,True,struggling
+1034,kinematics,physics,0.6,0.2,28,1,True,struggling
+1034,amines,chemistry,0.3,0.2,29,0,True,struggling
+1034,optics,physics,0.3,0.2,30,0,True,struggling
+1034,modern physics,physics,0.3,0.2,31,1,True,struggling
+1034,d and f block elements,chemistry,0.6,0.2,32,0,True,struggling
+1034,haloalkanes and haloarenes,chemistry,0.6,0.2,33,1,True,struggling
+1034,chemical bonding,chemistry,0.3,0.2,34,0,True,struggling
+1034,general organic chemistry,chemistry,0.3,0.2,35,1,True,struggling
+1035,laws of motion,physics,0.9,0.2,1,0,True,struggling
+1035,electromagnetic induction,physics,0.3,0.2,2,1,True,struggling
+1035,atoms and nuclei,physics,0.6,0.2,3,1,True,struggling
+1035,magnetism,physics,0.6,0.2,4,0,True,struggling
+1035,organic chemistry,chemistry,0.6,0.2,5,1,True,struggling
+1035,periodic table,chemistry,0.6,0.2,6,0,True,struggling
+1035,organic chemistry,chemistry,0.3,0.5,7,0,True,struggling
+1035,definite integration,mathematics,0.6,0.2,8,0,True,struggling
+1035,aldehydes and ketones,chemistry,0.3,0.2,9,0,True,struggling
+1035,definite integration,mathematics,0.6,0.15625,10,0,True,struggling
+1035,p block elements,chemistry,0.3,0.2,11,0,True,struggling
+1035,dual nature of radiation,physics,0.3,0.2,12,0,True,struggling
+1035,definite integration,mathematics,0.6,0.1423529411764705,13,1,True,struggling
+1035,organic chemistry,chemistry,0.3,0.2894736842105263,14,0,True,struggling
+1035,gravitation,physics,0.3,0.2,15,0,True,struggling
+1035,solid state,chemistry,0.3,0.2,16,1,True,struggling
+1035,periodic table,chemistry,0.3,0.15625,17,0,True,struggling
+1035,gravitation,physics,0.3,0.15625,18,1,True,struggling
+1035,solutions,chemistry,0.6,0.2,19,0,True,struggling
+1035,chemical bonding,chemistry,0.3,0.2,20,0,True,struggling
+1035,alcohols phenols and ethers,chemistry,0.6,0.2,21,0,True,struggling
+1035,magnetic effects of current,physics,0.3,0.2,22,0,True,struggling
+1035,magnetic effects of current,physics,0.6,0.15625,23,1,True,struggling
+1035,statistics,mathematics,0.6,0.2,24,1,True,struggling
+1035,units and dimensions,physics,0.5,0.2,25,0,True,struggling
+1035,dual nature of radiation,physics,0.6,0.15625,26,1,True,struggling
+1035,matrices,mathematics,0.3,0.2,27,1,True,struggling
+1035,dual nature of radiation,physics,0.3,0.4348837209302325,28,0,True,struggling
+1035,optics,physics,0.3,0.2,29,1,True,struggling
+1035,binomial theorem,mathematics,0.6,0.2,30,0,True,struggling
+1035,chemical kinetics,chemistry,0.3,0.2,31,0,True,struggling
+1035,3d geometry,mathematics,0.6,0.2,32,0,True,struggling
+1035,aldehydes and ketones,chemistry,0.6,0.15625,33,0,True,struggling
+1035,organic chemistry,chemistry,0.3,0.188195991091314,34,0,True,struggling
+1035,electrostatics,physics,0.6,0.2,35,0,True,struggling
+1036,hydrogen,chemistry,0.3,0.2,1,0,True,struggling
+1036,chemical bonding,chemistry,0.6,0.2,2,0,True,struggling
+1036,thermodynamics,physics,0.3,0.2,3,0,True,struggling
+1036,p block elements,chemistry,0.3,0.2,4,0,True,struggling
+1036,thermodynamics,chemistry,0.3,0.15625,5,0,True,struggling
+1036,thermodynamics,chemistry,0.6,0.1423529411764705,6,0,True,struggling
+1036,magnetism,physics,0.9,0.2,7,0,True,struggling
+1036,periodic table,chemistry,0.3,0.2,8,0,True,struggling
+1036,thermodynamics,chemistry,0.3,0.1381469480690078,9,1,True,struggling
+1036,magnetic effects of current,physics,0.3,0.2,10,0,True,struggling
+1036,organic chemistry,chemistry,0.3,0.2,11,1,True,struggling
+1036,chemical bonding,chemistry,0.3,0.15625,12,1,True,struggling
+1036,chemical bonding,chemistry,0.6,0.4348837209302325,13,1,True,struggling
+1036,3d geometry,mathematics,0.6,0.2,14,0,True,struggling
+1036,p block elements,chemistry,0.3,0.15625,15,0,True,struggling
+1036,probability,mathematics,0.6,0.2,16,0,True,struggling
+1036,organic chemistry,chemistry,0.3,0.5,17,0,True,struggling
+1036,optics,physics,0.3,0.2,18,1,True,struggling
+1036,coordination compounds,chemistry,0.6,0.2,19,0,True,struggling
+1036,kinematics,physics,0.6,0.2,20,1,True,struggling
+1036,calculus,mathematics,0.6,0.2,21,0,True,struggling
+1036,s block elements,chemistry,0.3,0.2,22,0,True,struggling
+1036,electrostatics,physics,0.3,0.2,23,0,True,struggling
+1036,3d geometry,mathematics,0.6,0.15625,24,1,True,struggling
+1036,organic chemistry,chemistry,0.3,0.2894736842105263,25,0,True,struggling
+1036,definite integration,mathematics,0.6,0.2,26,0,True,struggling
+1036,general organic chemistry,chemistry,0.3,0.2,27,0,True,struggling
+1036,thermodynamics,chemistry,0.6,0.4051277746062662,28,0,True,struggling
+1036,coordination compounds,chemistry,0.6,0.15625,29,1,True,struggling
+1036,gravitation,physics,0.6,0.2,30,0,True,struggling
+1036,matrices,mathematics,0.5,0.2,31,1,True,struggling
+1036,chemical bonding,chemistry,0.3,0.7400760637033515,32,1,True,struggling
+1036,solutions,chemistry,0.6,0.2,33,1,True,struggling
+1036,complex numbers,mathematics,0.3,0.2,34,0,True,struggling
+1036,complex numbers,mathematics,0.6,0.15625,35,0,True,struggling
+1037,periodic table,chemistry,0.3,0.2,1,1,True,struggling
+1037,atoms and nuclei,physics,0.3,0.2,2,0,True,struggling
+1037,chemical bonding,chemistry,0.3,0.2,3,0,True,struggling
+1037,atoms and nuclei,physics,0.3,0.15625,4,1,True,struggling
+1037,electrochemistry,chemistry,0.6,0.2,5,0,True,struggling
+1037,hydrogen,chemistry,0.6,0.2,6,1,True,struggling
+1037,equilibrium,chemistry,0.6,0.2,7,0,True,struggling
+1037,d and f block elements,chemistry,0.6,0.2,8,0,True,struggling
+1037,p block elements,chemistry,0.3,0.2,9,1,True,struggling
+1037,coordination compounds,chemistry,0.6,0.2,10,0,True,struggling
+1037,statistics,mathematics,0.6,0.2,11,0,True,struggling
+1037,thermodynamics,chemistry,0.6,0.2,12,0,True,struggling
+1037,sequence and series,mathematics,0.5,0.2,13,0,True,struggling
+1037,magnetic effects of current,physics,0.3,0.2,14,0,True,struggling
+1037,coordinate geometry,mathematics,0.3,0.2,15,0,True,struggling
+1037,atoms and nuclei,physics,0.3,0.4348837209302325,16,1,True,struggling
+1037,chemical kinetics,chemistry,0.3,0.2,17,1,True,struggling
+1037,binomial theorem,mathematics,0.3,0.2,18,0,True,struggling
+1037,coordinate geometry,mathematics,0.6,0.15625,19,0,True,struggling
+1037,probability,mathematics,0.6,0.2,20,0,True,struggling
+1037,equilibrium,chemistry,0.3,0.15625,21,1,True,struggling
+1037,rotational motion,physics,0.3,0.2,22,0,True,struggling
+1037,metallurgy,chemistry,0.3,0.2,23,0,True,struggling
+1037,matrices,mathematics,0.6,0.2,24,0,True,struggling
+1037,atoms and nuclei,physics,0.3,0.7400760637033515,25,1,True,struggling
+1037,laws of motion,physics,0.6,0.2,26,1,True,struggling
+1037,probability,mathematics,0.6,0.15625,27,0,True,struggling
+1037,waves,physics,0.3,0.2,28,0,True,struggling
+1037,haloalkanes and haloarenes,chemistry,0.3,0.2,29,0,True,struggling
+1037,coordination compounds,chemistry,0.3,0.15625,30,1,True,struggling
+1037,thermodynamics,physics,0.3,0.15625,31,0,True,struggling
+1037,electromagnetic induction,physics,0.6,0.2,32,1,True,struggling
+1037,thermodynamics,physics,0.3,0.1423529411764705,33,0,True,struggling
+1037,p block elements,chemistry,0.6,0.5,34,1,True,struggling
+1037,metallurgy,chemistry,0.3,0.15625,35,0,True,struggling
+1038,kinematics,physics,0.3,0.2,1,0,True,struggling
+1038,electrostatics,physics,0.6,0.2,2,0,True,struggling
+1038,kinematics,physics,0.3,0.15625,3,0,True,struggling
+1038,thermodynamics,physics,0.6,0.2,4,1,True,struggling
+1038,optics,physics,0.3,0.2,5,0,True,struggling
+1038,chemical bonding,chemistry,0.3,0.2,6,0,True,struggling
+1038,equilibrium,chemistry,0.3,0.2,7,1,True,struggling
+1038,atomic structure,chemistry,0.6,0.2,8,1,True,struggling
+1038,electromagnetic induction,physics,0.3,0.2,9,0,True,struggling
+1038,coordination compounds,chemistry,0.3,0.2,10,0,True,struggling
+1038,3d geometry,mathematics,0.6,0.2,11,0,True,struggling
+1038,3d geometry,mathematics,0.6,0.15625,12,1,True,struggling
+1038,electrostatics,physics,0.3,0.15625,13,0,True,struggling
+1038,coordination compounds,chemistry,0.3,0.15625,14,0,True,struggling
+1038,gravitation,physics,0.3,0.2,15,0,True,struggling
+1038,equilibrium,chemistry,0.3,0.5,16,1,True,struggling
+1038,coordination compounds,chemistry,0.6,0.1423529411764705,17,1,True,struggling
+1038,d and f block elements,chemistry,0.3,0.2,18,1,True,struggling
+1038,definite integration,mathematics,0.6,0.2,19,0,True,struggling
+1038,periodic table,chemistry,0.3,0.2,20,0,True,struggling
+1038,genetics,biology,0.7,0.2,21,0,True,struggling
+1038,biomolecules,chemistry,0.3,0.2,22,0,True,struggling
+1038,amines,chemistry,0.6,0.2,23,0,True,struggling
+1038,gravitation,physics,0.6,0.15625,24,0,True,struggling
+1038,rotational motion,physics,0.3,0.2,25,1,True,struggling
+1038,thermodynamics,physics,0.6,0.5,26,1,True,struggling
+1038,modern physics,physics,0.3,0.2,27,1,True,struggling
+1038,general organic chemistry,chemistry,0.6,0.2,28,0,True,struggling
+1038,chemical kinetics,chemistry,0.3,0.2,29,1,True,struggling
+1038,3d geometry,mathematics,0.6,0.4348837209302325,30,0,True,struggling
+1038,organic chemistry,chemistry,0.3,0.2,31,1,True,struggling
+1038,binomial theorem,mathematics,0.6,0.2,32,0,True,struggling
+1038,atoms and nuclei,physics,0.3,0.2,33,0,True,struggling
+1038,p block elements,chemistry,0.3,0.2,34,1,True,struggling
+1038,aldehydes and ketones,chemistry,0.6,0.2,35,0,True,struggling
+1039,thermodynamics,chemistry,0.3,0.2,1,0,True,struggling
+1039,electrostatics,physics,0.3,0.2,2,0,True,struggling
+1039,atomic structure,chemistry,0.6,0.2,3,0,True,struggling
+1039,electrostatics,physics,0.3,0.15625,4,1,True,struggling
+1039,chemical bonding,chemistry,0.6,0.2,5,0,True,struggling
+1039,optics,physics,0.6,0.2,6,0,True,struggling
+1039,statistics,mathematics,0.6,0.2,7,0,True,struggling
+1039,organic chemistry,chemistry,0.6,0.2,8,0,True,struggling
+1039,thermodynamics,physics,0.6,0.15625,9,0,True,struggling
+1039,rotational motion,physics,0.6,0.2,10,0,True,struggling
+1039,atoms and nuclei,physics,0.6,0.2,11,1,True,struggling
+1039,calculus,mathematics,0.6,0.2,12,0,True,struggling
+1039,electromagnetic induction,physics,0.3,0.2,13,0,True,struggling
+1039,biomolecules,chemistry,0.3,0.2,14,1,True,struggling
+1039,hydrogen,chemistry,0.3,0.2,15,1,True,struggling
+1039,optics,physics,0.3,0.15625,16,0,True,struggling
+1039,atoms and nuclei,physics,0.3,0.5,17,0,True,struggling
+1039,gravitation,physics,0.6,0.2,18,1,True,struggling
+1039,thermodynamics,physics,0.6,0.1423529411764705,19,0,True,struggling
+1039,matrices,mathematics,0.6,0.2,20,1,True,struggling
+1039,binomial theorem,mathematics,0.3,0.2,21,0,True,struggling
+1039,coordination compounds,chemistry,0.6,0.2,22,0,True,struggling
+1039,s block elements,chemistry,0.3,0.2,23,1,True,struggling
+1039,biomolecules,chemistry,0.3,0.5,24,0,True,struggling
+1039,atomic structure,chemistry,0.3,0.15625,25,1,True,struggling
+1039,d and f block elements,chemistry,0.3,0.2,26,0,True,struggling
+1039,equilibrium,chemistry,0.6,0.2,27,1,True,struggling
+1039,coordination compounds,chemistry,0.3,0.15625,28,0,True,struggling
+1039,general organic chemistry,chemistry,0.6,0.2,29,0,True,struggling
+1039,matrices,mathematics,0.3,0.5,30,1,True,struggling
+1039,thermodynamics,physics,0.6,0.1381469480690078,31,0,True,struggling
+1039,electromagnetic induction,physics,0.3,0.15625,32,1,True,struggling
+1039,hydrogen,chemistry,0.3,0.5,33,1,True,struggling
+1039,p block elements,chemistry,0.3,0.2,34,0,True,struggling
+1039,thermodynamics,physics,0.3,0.1368927939194127,35,0,True,struggling
+1040,organic chemistry,chemistry,0.3,0.2,1,1,True,struggling
+1040,probability,mathematics,0.6,0.2,2,0,True,struggling
+1040,atomic structure,chemistry,0.3,0.2,3,1,True,struggling
+1040,waves,physics,0.4,0.2,4,1,True,struggling
+1040,atoms and nuclei,physics,0.3,0.2,5,0,True,struggling
+1040,electrostatics,physics,0.6,0.2,6,0,True,struggling
+1040,dual nature of radiation,physics,0.6,0.2,7,0,True,struggling
+1040,thermodynamics,physics,0.6,0.2,8,0,True,struggling
+1040,atomic structure,chemistry,0.6,0.5,9,1,True,struggling
+1040,chemical bonding,chemistry,0.6,0.2,10,0,True,struggling
+1040,definite integration,mathematics,0.6,0.2,11,1,True,struggling
+1040,d and f block elements,chemistry,0.3,0.2,12,0,True,struggling
+1040,rotational motion,physics,0.3,0.2,13,0,True,struggling
+1040,3d geometry,mathematics,0.6,0.2,14,1,True,struggling
+1040,coordination compounds,chemistry,0.6,0.2,15,1,True,struggling
+1040,application of derivatives,mathematics,0.6,0.2,16,0,True,struggling
+1040,atoms and nuclei,physics,0.6,0.15625,17,0,True,struggling
+1040,magnetic effects of current,physics,0.6,0.2,18,0,True,struggling
+1040,amines,chemistry,0.3,0.2,19,0,True,struggling
+1040,rotational motion,physics,0.3,0.15625,20,0,True,struggling
+1040,calculus,mathematics,0.6,0.2,21,0,True,struggling
+1040,matrices,mathematics,0.6,0.2,22,0,True,struggling
+1040,thermodynamics,physics,0.3,0.15625,23,0,True,struggling
+1040,biomolecules,chemistry,0.3,0.2,24,0,True,struggling
+1040,gravitation,physics,0.6,0.2,25,1,True,struggling
+1040,alcohols phenols and ethers,chemistry,0.3,0.2,26,0,True,struggling
+1040,atomic structure,chemistry,0.6,0.7857142857142857,27,1,True,struggling
+1040,chemical kinetics,chemistry,0.3,0.2,28,1,True,struggling
+1040,trigonometry,mathematics,0.6,0.2,29,0,True,struggling
+1040,electrostatics,physics,0.6,0.15625,30,0,True,struggling
+1040,electrostatics,physics,0.6,0.1423529411764705,31,0,True,struggling
+1040,atomic structure,chemistry,0.3,0.9293193717277488,32,1,True,struggling
+1040,atomic structure,chemistry,0.6,0.9791057609630266,33,1,True,struggling
+1040,3d geometry,mathematics,0.6,0.5,34,1,True,struggling
+1040,atomic structure,chemistry,0.3,0.9940378502456284,35,1,True,struggling
+1041,3d geometry,mathematics,0.6,0.2,1,0,True,struggling
+1041,alcohols phenols and ethers,chemistry,0.3,0.2,2,1,True,struggling
+1041,atomic structure,chemistry,0.6,0.2,3,0,True,struggling
+1041,probability,mathematics,0.6,0.2,4,0,True,struggling
+1041,kinematics,physics,0.3,0.2,5,0,True,struggling
+1041,gravitation,physics,0.6,0.2,6,0,True,struggling
+1041,d and f block elements,chemistry,0.3,0.2,7,0,True,struggling
+1041,organic chemistry,chemistry,0.6,0.2,8,1,True,struggling
+1041,3d geometry,mathematics,0.6,0.15625,9,0,True,struggling
+1041,3d geometry,mathematics,0.6,0.1423529411764705,10,0,True,struggling
+1041,statistics,mathematics,0.6,0.2,11,1,True,struggling
+1041,application of derivatives,mathematics,0.6,0.2,12,0,True,struggling
+1041,trigonometry,mathematics,0.6,0.2,13,0,True,struggling
+1041,thermodynamics,physics,0.6,0.2,14,0,True,struggling
+1041,periodic table,chemistry,0.3,0.2,15,0,True,struggling
+1041,alcohols phenols and ethers,chemistry,0.3,0.5,16,1,True,struggling
+1041,electrostatics,physics,0.6,0.2,17,0,True,struggling
+1041,thermodynamics,physics,0.6,0.15625,18,0,True,struggling
+1041,binomial theorem,mathematics,0.3,0.2,19,0,True,struggling
+1041,trigonometry,mathematics,0.3,0.15625,20,1,True,struggling
+1041,kinetic theory of gases,physics,0.3,0.2,21,0,True,struggling
+1041,calculus,mathematics,0.6,0.2,22,0,True,struggling
+1041,atomic structure,chemistry,0.3,0.15625,23,1,True,struggling
+1041,definite integration,mathematics,0.6,0.2,24,1,True,struggling
+1041,p block elements,chemistry,0.3,0.2,25,1,True,struggling
+1041,binomial theorem,mathematics,0.6,0.15625,26,1,True,struggling
+1041,thermodynamics,physics,0.6,0.1423529411764705,27,0,True,struggling
+1041,thermodynamics,physics,0.3,0.1381469480690078,28,0,True,struggling
+1041,complex numbers,mathematics,0.6,0.2,29,0,True,struggling
+1041,definite integration,mathematics,0.6,0.5,30,1,True,struggling
+1041,waves,physics,0.6,0.2,31,0,True,struggling
+1041,kinematics,physics,0.3,0.15625,32,1,True,struggling
+1041,rotational motion,physics,0.6,0.2,33,0,True,struggling
+1041,organic chemistry,chemistry,0.3,0.5,34,0,True,struggling
+1041,calculus,mathematics,0.3,0.15625,35,1,True,struggling
+1042,thermodynamics,chemistry,0.6,0.2,1,0,True,struggling
+1042,magnetic effects of current,physics,0.3,0.2,2,1,True,struggling
+1042,optics,physics,0.6,0.2,3,1,True,struggling
+1042,thermodynamics,chemistry,0.6,0.15625,4,0,True,struggling
+1042,statistics,mathematics,0.6,0.2,5,0,True,struggling
+1042,probability,mathematics,0.6,0.2,6,1,True,struggling
+1042,thermodynamics,physics,0.3,0.1423529411764705,7,0,True,struggling
+1042,thermodynamics,physics,0.3,0.1381469480690078,8,1,True,struggling
+1042,atoms and nuclei,physics,0.6,0.2,9,0,True,struggling
+1042,coordinate geometry,mathematics,0.6,0.2,10,0,True,struggling
+1042,organic chemistry,chemistry,0.3,0.2,11,1,True,struggling
+1042,rotational motion,physics,0.9,0.2,12,0,True,struggling
+1042,matrices,mathematics,0.5,0.2,13,1,True,struggling
+1042,atomic structure,chemistry,0.6,0.2,14,1,True,struggling
+1042,equilibrium,chemistry,0.6,0.2,15,1,True,struggling
+1042,application of derivatives,mathematics,0.9,0.2,16,0,True,struggling
+1042,organic chemistry,chemistry,0.6,0.5,17,0,True,struggling
+1042,optics,physics,0.5,0.5,18,1,True,struggling
+1042,complex numbers,mathematics,0.6,0.2,19,0,True,struggling
+1042,thermodynamics,physics,0.6,0.4051277746062662,20,0,True,struggling
+1042,electrostatics,physics,0.6,0.2,21,1,True,struggling
+1042,complex numbers,mathematics,0.6,0.15625,22,0,True,struggling
+1042,equilibrium,chemistry,0.6,0.5,23,1,True,struggling
+1042,biomolecules,chemistry,0.3,0.2,24,0,True,struggling
+1042,statistics,mathematics,0.6,0.15625,25,0,True,struggling
+1042,calculus,mathematics,0.6,0.2,26,1,True,struggling
+1042,haloalkanes and haloarenes,chemistry,0.3,0.2,27,0,True,struggling
+1042,d and f block elements,chemistry,0.3,0.2,28,0,True,struggling
+1042,complex numbers,mathematics,0.6,0.1423529411764705,29,0,True,struggling
+1042,3d geometry,mathematics,0.6,0.2,30,1,True,struggling
+1042,d and f block elements,chemistry,0.6,0.15625,31,0,True,struggling
+1042,laws of motion,physics,0.3,0.2,32,0,True,struggling
+1042,p block elements,chemistry,0.3,0.2,33,1,True,struggling
+1042,3d geometry,mathematics,0.6,0.5,34,0,True,struggling
+1042,rotational motion,physics,0.6,0.15625,35,0,True,struggling
+1043,thermodynamics,physics,0.9,0.2,1,0,True,struggling
+1043,optics,physics,0.3,0.2,2,1,True,struggling
+1043,electrostatics,physics,0.6,0.2,3,0,True,struggling
+1043,equilibrium,chemistry,0.6,0.2,4,0,True,struggling
+1043,binomial theorem,mathematics,0.6,0.2,5,0,True,struggling
+1043,waves,physics,0.3,0.2,6,1,True,struggling
+1043,gravitation,physics,0.6,0.2,7,0,True,struggling
+1043,complex numbers,mathematics,0.6,0.2,8,0,True,struggling
+1043,hydrogen,chemistry,0.6,0.2,9,1,True,struggling
+1043,laws of motion,physics,0.6,0.2,10,1,True,struggling
+1043,biomolecules,chemistry,0.3,0.2,11,0,True,struggling
+1043,matrices,mathematics,0.6,0.2,12,0,True,struggling
+1043,electromagnetic induction,physics,0.3,0.2,13,0,True,struggling
+1043,matrices,mathematics,0.6,0.15625,14,1,True,struggling
+1043,biomolecules,chemistry,0.3,0.15625,15,1,True,struggling
+1043,biotechnology,biology,0.6,0.2,16,1,True,struggling
+1043,equilibrium,chemistry,0.3,0.15625,17,1,True,struggling
+1043,thermodynamics,physics,0.6,0.15625,18,0,True,struggling
+1043,calculus,mathematics,0.6,0.2,19,0,True,struggling
+1043,3d geometry,mathematics,0.6,0.2,20,0,True,struggling
+1043,equilibrium,chemistry,0.3,0.4348837209302325,21,1,True,struggling
+1043,matrices,mathematics,0.6,0.4348837209302325,22,0,True,struggling
+1043,equilibrium,chemistry,0.6,0.7400760637033515,23,0,True,struggling
+1043,electromagnetic induction,physics,0.3,0.15625,24,1,True,struggling
+1043,atomic structure,chemistry,0.3,0.2,25,1,True,struggling
+1043,thermodynamics,chemistry,0.6,0.1423529411764705,26,1,True,struggling
+1043,general organic chemistry,chemistry,0.3,0.2,27,0,True,struggling
+1043,waves,physics,0.6,0.5,28,0,True,struggling
+1043,magnetism,physics,0.6,0.2,29,1,True,struggling
+1043,modern physics,physics,0.3,0.2,30,1,True,struggling
+1043,s block elements,chemistry,0.6,0.2,31,0,True,struggling
+1043,waves,physics,0.6,0.2894736842105263,32,1,True,struggling
+1043,kinematics,physics,0.6,0.2,33,0,True,struggling
+1043,statistics,mathematics,0.6,0.2,34,1,True,struggling
+1043,atoms and nuclei,physics,0.3,0.2,35,0,True,struggling
+1044,complex numbers,mathematics,0.3,0.2,1,0,True,struggling
+1044,atomic structure,chemistry,0.6,0.2,2,0,True,struggling
+1044,magnetic effects of current,physics,0.3,0.2,3,1,True,struggling
+1044,kinematics,physics,0.3,0.2,4,0,True,struggling
+1044,dual nature of radiation,physics,0.3,0.2,5,0,True,struggling
+1044,calculus,mathematics,0.6,0.2,6,0,True,struggling
+1044,electrochemistry,chemistry,0.3,0.2,7,1,True,struggling
+1044,equilibrium,chemistry,0.6,0.2,8,0,True,struggling
+1044,periodic table,chemistry,0.3,0.2,9,1,True,struggling
+1044,d and f block elements,chemistry,0.6,0.2,10,1,True,struggling
+1044,binomial theorem,mathematics,0.6,0.2,11,1,True,struggling
+1044,electrostatics,physics,0.6,0.2,12,0,True,struggling
+1044,3d geometry,mathematics,0.6,0.2,13,0,True,struggling
+1044,solutions,chemistry,0.6,0.2,14,0,True,struggling
+1044,organic chemistry,chemistry,0.6,0.2,15,0,True,struggling
+1044,thermodynamics,physics,0.3,0.2,16,1,True,struggling
+1044,trigonometry,mathematics,0.6,0.2,17,0,True,struggling
+1044,organic chemistry,chemistry,0.3,0.15625,18,0,True,struggling
+1044,probability,mathematics,0.6,0.2,19,1,True,struggling
+1044,atomic structure,chemistry,0.6,0.15625,20,0,True,struggling
+1044,gravitation,physics,0.6,0.2,21,1,True,struggling
+1044,aldehydes and ketones,chemistry,0.6,0.2,22,1,True,struggling
+1044,haloalkanes and haloarenes,chemistry,0.5,0.2,23,0,True,struggling
+1044,thermodynamics,chemistry,0.3,0.5,24,1,True,struggling
+1044,application of derivatives,mathematics,0.6,0.2,25,0,True,struggling
+1044,statistics,mathematics,0.6,0.2,26,0,True,struggling
+1044,aldehydes and ketones,chemistry,0.3,0.5,27,0,True,struggling
+1044,thermodynamics,physics,0.6,0.7857142857142857,28,1,True,struggling
+1044,matrices,mathematics,0.6,0.2,29,0,True,struggling
+1044,atoms and nuclei,physics,0.6,0.2,30,1,True,struggling
+1044,dual nature of radiation,physics,0.3,0.15625,31,0,True,struggling
+1044,waves,physics,0.6,0.2,32,0,True,struggling
+1044,sets and relations,mathematics,0.5,0.2,33,1,True,struggling
+1044,coordinate geometry,mathematics,0.6,0.2,34,1,True,struggling
+1044,thermodynamics,physics,0.3,0.9293193717277488,35,1,True,struggling

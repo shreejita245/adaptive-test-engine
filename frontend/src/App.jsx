@@ -7,6 +7,7 @@ import Test from "./components/Test"
 import Dashboard from "./components/Dashboard"
 import ExplanationPage from "./components/ExplanationPage"
 import TestHistory from "./components/TestHistory"
+import FacultyDashboard from "./components/FacultyDashboard"
 import "./App.css"
 
 export default function App() {
@@ -65,6 +66,12 @@ export default function App() {
             >
               📂 Test History
             </button>
+            <button
+              className={`topbar-nav-btn ${page === "faculty" ? "topbar-nav-active" : ""}`}
+              onClick={() => setPage("faculty")}
+            >
+              🧭 Insights
+            </button>
           </div>
 
           {/* Profile */}
@@ -87,6 +94,12 @@ export default function App() {
                   className="topbar-dropdown-item"
                 >
                   📂 Test History
+                </button>
+                <button
+                  onClick={() => { setPage("faculty"); setShowProfile(false) }}
+                  className="topbar-dropdown-item"
+                >
+                  🧭 Insights
                 </button>
                 <button
                   onClick={() => { setPage("config"); setShowProfile(false) }}
@@ -152,6 +165,10 @@ export default function App() {
           onBack={() => setPage(scoreData ? "dashboard" : "config")}
           onStartNew={() => setPage("config")}
         />
+      )}
+
+      {page === "faculty" && (
+        <FacultyDashboard onBack={() => setPage("config")} />
       )}
     </div>
   )

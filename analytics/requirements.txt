@@ -1,0 +1,9 @@
+# Additional dependencies for the analytics/ pipeline
+# (not required by the core FastAPI app — install separately, e.g. inside
+# analytics/venv, or add to the root requirements.txt if you deploy this
+# alongside the API later)
+pandas
+scikit-learn
+xgboost
+shap
+matplotlib
