@@ -3,4 +3,4 @@ const isLocal = window.location.hostname === "localhost" || window.location.host
 
 export const API = isLocal
   ? "http://127.0.0.1:8000"
-  : "https://adaptive-test-engine-production.up.railway.app"
+: "https://adaptive-test-engine.onrender.com"
