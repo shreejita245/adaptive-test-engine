@@ -1,0 +1,602 @@
+{
+  "generated_at": "2026-10-07T16:20:12.123585+00:00",
+  "cohort_summary": {
+    "n_students": 30,
+    "n_attempts": 278,
+    "n_topics": 34,
+    "overall_accuracy": 0.3201,
+    "overall_avg_risk": 0.5702,
+    "total_anomalies": 28
+  },
+  "topics": [
+    {
+      "topic": "electromagnetic induction",
+      "subject": "physics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.9258,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "sets and relations",
+      "subject": "mathematics",
+      "n_attempts": 7,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.8517,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 4
+        },
+        {
+          "feature": "attempt_number",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "application of derivatives",
+      "subject": "mathematics",
+      "n_attempts": 3,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.8121,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 2
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "differential equations",
+      "subject": "mathematics",
+      "n_attempts": 9,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.766,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 7
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "optics",
+      "subject": "physics",
+      "n_attempts": 2,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.7366,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "difficulty",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "vector algebra",
+      "subject": "mathematics",
+      "n_attempts": 8,
+      "n_students": 1,
+      "accuracy": 0.25,
+      "avg_predicted_risk": 0.733,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 3
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 2
+        },
+        {
+          "feature": "recent_accuracy",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "circles",
+      "subject": "mathematics",
+      "n_attempts": 4,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.7231,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 3
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "trigonometry",
+      "subject": "mathematics",
+      "n_attempts": 47,
+      "n_students": 4,
+      "accuracy": 0.2128,
+      "avg_predicted_risk": 0.7148,
+      "top_drivers": [
+        {
+          "feature": "attempt_number",
+          "count": 12
+        },
+        {
+          "feature": "current_mastery",
+          "count": 11
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 3
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "atoms and nuclei",
+      "subject": "physics",
+      "n_attempts": 3,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.686,
+      "top_drivers": [
+        {
+          "feature": "topic_grouped_quadratic equations",
+          "count": 1
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "haloalkanes and haloarenes",
+      "subject": "chemistry",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.3,
+      "avg_predicted_risk": 0.6664,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 4
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "coordinate geometry",
+      "subject": "mathematics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.6645,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "rotational motion",
+      "subject": "physics",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.2,
+      "avg_predicted_risk": 0.6471,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 3
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 2
+        },
+        {
+          "feature": "difficulty",
+          "count": 1
+        }
+      ],
+      "risk_level": "High"
+    },
+    {
+      "topic": "magnetism",
+      "subject": "physics",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.2,
+      "avg_predicted_risk": 0.6242,
+      "top_drivers": [
+        {
+          "feature": "difficulty",
+          "count": 5
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "3d geometry",
+      "subject": "mathematics",
+      "n_attempts": 22,
+      "n_students": 3,
+      "accuracy": 0.2727,
+      "avg_predicted_risk": 0.6074,
+      "top_drivers": [
+        {
+          "feature": "topic_grouped_3d geometry",
+          "count": 6
+        },
+        {
+          "feature": "current_mastery",
+          "count": 5
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "cell biology",
+      "subject": "biology",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.4,
+      "avg_predicted_risk": 0.6071,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 3
+        },
+        {
+          "feature": "current_mastery",
+          "count": 2
+        },
+        {
+          "feature": "difficulty",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "units and dimensions",
+      "subject": "physics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 1.0,
+      "avg_predicted_risk": 0.5969,
+      "top_drivers": [],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "laws of motion",
+      "subject": "physics",
+      "n_attempts": 4,
+      "n_students": 1,
+      "accuracy": 0.5,
+      "avg_predicted_risk": 0.5962,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "waves",
+      "subject": "physics",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.5,
+      "avg_predicted_risk": 0.5818,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 2
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "sequence and series",
+      "subject": "mathematics",
+      "n_attempts": 6,
+      "n_students": 1,
+      "accuracy": 0.1667,
+      "avg_predicted_risk": 0.5693,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "complex numbers",
+      "subject": "mathematics",
+      "n_attempts": 11,
+      "n_students": 2,
+      "accuracy": 0.2727,
+      "avg_predicted_risk": 0.5569,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 3
+        },
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "calculus",
+      "subject": "mathematics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.5022,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "probability",
+      "subject": "mathematics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 1.0,
+      "avg_predicted_risk": 0.5022,
+      "top_drivers": [],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "simple harmonic motion",
+      "subject": "physics",
+      "n_attempts": 6,
+      "n_students": 1,
+      "accuracy": 0.1667,
+      "avg_predicted_risk": 0.493,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Medium"
+    },
+    {
+      "topic": "thermodynamics",
+      "subject": "physics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 1.0,
+      "avg_predicted_risk": 0.4916,
+      "top_drivers": [],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "organic chemistry",
+      "subject": "chemistry",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.4581,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "modern physics",
+      "subject": "physics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.4488,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "life processes",
+      "subject": "science",
+      "n_attempts": 5,
+      "n_students": 1,
+      "accuracy": 0.6,
+      "avg_predicted_risk": 0.4329,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "quadratic equations",
+      "subject": "mathematics",
+      "n_attempts": 53,
+      "n_students": 15,
+      "accuracy": 0.4528,
+      "avg_predicted_risk": 0.4274,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 7
+        },
+        {
+          "feature": "current_mastery",
+          "count": 5
+        },
+        {
+          "feature": "difficulty",
+          "count": 3
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "equilibrium",
+      "subject": "chemistry",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 1.0,
+      "avg_predicted_risk": 0.4269,
+      "top_drivers": [],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "hydrogen",
+      "subject": "chemistry",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 0.0,
+      "avg_predicted_risk": 0.4269,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "anatomy of flowering plants",
+      "subject": "biology",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.3,
+      "avg_predicted_risk": 0.4088,
+      "top_drivers": [
+        {
+          "feature": "current_mastery",
+          "count": 3
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "indefinite integration",
+      "subject": "mathematics",
+      "n_attempts": 7,
+      "n_students": 1,
+      "accuracy": 0.5714,
+      "avg_predicted_risk": 0.4028,
+      "top_drivers": [
+        {
+          "feature": "avg_time_this_student",
+          "count": 1
+        },
+        {
+          "feature": "recent_accuracy",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "matrices and determinants",
+      "subject": "mathematics",
+      "n_attempts": 1,
+      "n_students": 1,
+      "accuracy": 1.0,
+      "avg_predicted_risk": 0.0897,
+      "top_drivers": [],
+      "risk_level": "Low"
+    },
+    {
+      "topic": "ecosystem",
+      "subject": "biology",
+      "n_attempts": 10,
+      "n_students": 1,
+      "accuracy": 0.9,
+      "avg_predicted_risk": 0.0575,
+      "top_drivers": [
+        {
+          "feature": "topic_grouped_ecosystem",
+          "count": 1
+        }
+      ],
+      "risk_level": "Low"
+    }
+  ]
+}
