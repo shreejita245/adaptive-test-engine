@@ -18,7 +18,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 8,quadratic equations,math,3,0.85,0.9095315024232634,1.0,5.0,4,0,-0.05312777235822008,True,incorrect despite high current mastery
 8,quadratic equations,math,4,0.55,0.6581892166836218,0.6666666666666666,4.666666666666667,5,0,0.07612814473041729,False,
 8,quadratic equations,math,5,0.25,0.3634354278497002,0.5,4.75,60,0,-0.10161906240547969,True,much slower than usual for this student
-8,quadratic equations,math,6,0.25,0.2565914817773954,0.4,15.8,60,0,-0.06367379996389066,True,much slower than usual for this student
+8,quadratic equations,math,6,0.25,0.2565914817773954,0.4,15.8,60,0,-0.06367379996389078,True,much slower than usual for this student
 9,quadratic equations,math,1,0.25,0.3,,,3,0,0.013917314530577762,False,
 9,quadratic equations,math,2,0.4,0.2432432432432432,0.0,3.0,10,1,0.048016353039949056,False,
 9,quadratic equations,math,3,0.55,0.6291390728476821,0.5,6.5,18,1,0.014203429977610482,False,
@@ -29,25 +29,25 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 10,life processes,science,3,0.55,0.6291390728476821,0.5,8.0,9,0,0.08766884707621714,False,
 10,life processes,science,4,0.25,0.3475728155339806,0.3333333333333333,8.333333333333334,9,1,0.04216203041926292,False,
 10,life processes,science,5,0.85,0.7258261933904528,0.5,8.5,7,1,-0.010102805461933428,True,unusual combination of factors (no single obvious cause)
-11,quadratic equations,mathematics,1,0.4,0.3,,,12,0,0.05324679833529139,False,
+11,quadratic equations,mathematics,1,0.4,0.3,,,12,0,0.053246798335291334,False,
 11,quadratic equations,mathematics,2,0.6,0.2432432432432432,0.0,12.0,4,0,0.05045983556888173,False,
 12,coordinate geometry,mathematics,1,0.5,0.3,,,5,0,0.045051167499051525,False,
 13,laws of motion,physics,1,0.3,0.3,,,3,0,0.087418913497471,False,
-13,laws of motion,physics,2,0.4,0.2432432432432432,0.0,3.0,3,1,0.07701247626520025,False,
+13,laws of motion,physics,2,0.4,0.2432432432432432,0.0,3.0,3,1,0.07701247626520019,False,
 13,laws of motion,physics,3,0.5,0.6291390728476821,0.5,3.0,5,1,0.06482221372203772,False,
 13,laws of motion,physics,4,0.6,0.8874371859296482,0.6666666666666666,3.6666666666666665,4,0,0.04127430737078258,False,
 16,cell biology,biology,1,0.3,0.3,,,2,0,0.07222487930986377,False,
 16,cell biology,biology,2,0.3,0.2432432432432432,0.0,2.0,3,0,0.1104824484722517,False,
-16,cell biology,biology,3,0.5,0.2328767123287671,0.0,2.5,4,1,0.06740096689530051,False,
+16,cell biology,biology,3,0.5,0.2328767123287671,0.0,2.5,4,1,0.06740096689530045,False,
 16,cell biology,biology,4,0.5,0.6177474402730375,0.3333333333333333,3.0,3,0,0.09171832938268376,False,
 16,cell biology,biology,5,0.7,0.3418217433888345,0.25,3.0,3,1,0.014292532961575732,False,
-16,cell biology,biology,6,0.5,0.7212196639701307,0.4,3.0,8,1,0.05354932276172025,False,
+16,cell biology,biology,6,0.5,0.7212196639701307,0.4,3.0,8,1,0.0535493227617202,False,
 16,cell biology,biology,7,0.5,0.9224309583585836,0.6,3.8333333333333335,5,0,0.043715422931873305,False,
 16,cell biology,biology,8,0.5,0.690589928057554,0.6,4.0,5,0,0.08521735201854946,False,
 16,cell biology,biology,9,0.5,0.3834744547869799,0.4,4.125,4,0,0.1158818582678579,False,
 16,cell biology,biology,10,0.5,0.2612650439150632,0.4,4.111111111111111,6,1,0.07661037055023023,False,
 17,complex numbers,mathematics,1,0.4,0.3,,,3,0,0.050247361001128255,False,
-17,complex numbers,mathematics,2,0.6,0.2432432432432432,0.0,3.0,3,1,0.04091614414729461,False,
+17,complex numbers,mathematics,2,0.6,0.2432432432432432,0.0,3.0,3,1,0.040916144147294664,False,
 18,trigonometry,mathematics,1,0.3,0.3,,,5,0,0.07941786059888922,False,
 18,trigonometry,mathematics,2,0.3,0.2432432432432432,0.0,5.0,5,0,0.11928694580368937,False,
 18,trigonometry,mathematics,3,0.3,0.2328767123287671,0.0,5.0,24,0,0.07700357547559006,False,
@@ -66,7 +66,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 21,indefinite integration,mathematics,1,0.5,0.3,,,7,0,0.03287645114029325,False,
 21,indefinite integration,mathematics,2,0.5,0.2432432432432432,0.0,7.0,5,1,0.07647943350329128,False,
 21,indefinite integration,mathematics,3,0.5,0.6291390728476821,0.5,6.0,4,0,0.09544148583140288,False,
-21,indefinite integration,mathematics,4,0.5,0.3475728155339806,0.3333333333333333,5.333333333333333,7,1,0.07364164858702782,False,
+21,indefinite integration,mathematics,4,0.5,0.3475728155339806,0.3333333333333333,5.333333333333333,7,1,0.07364164858702776,False,
 21,indefinite integration,mathematics,5,0.5,0.7258261933904528,0.5,5.75,6,1,0.0713302643288714,False,
 21,indefinite integration,mathematics,6,0.5,0.9240291673732406,0.6,5.8,5,1,0.012048155443029729,False,
 21,indefinite integration,mathematics,7,0.5,0.9821375171946332,0.8,5.666666666666667,4,0,-0.019036925417478368,True,incorrect despite high current mastery
@@ -89,7 +89,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 22,rotational motion,physics,7,0.6,0.6153956216912291,0.2,16.333333333333332,4,1,-0.003958575450339286,True,unusual combination of factors (no single obvious cause)
 22,rotational motion,physics,8,0.9,0.8816614937594929,0.4,14.571428571428571,4,0,-0.03882061371108392,True,incorrect despite high current mastery
 22,rotational motion,physics,9,0.6,0.5986711955507448,0.4,13.25,5,0,0.07142724720910015,False,
-22,rotational motion,physics,10,0.3,0.3327196185314288,0.4,12.333333333333334,4,0,0.09823650625449815,False,
+22,rotational motion,physics,10,0.3,0.3327196185314288,0.4,12.333333333333334,4,0,0.09823650625449809,False,
 22,circles,mathematics,11,0.5,0.3,0.4,11.5,5,0,0.11317806902444544,False,
 22,circles,mathematics,12,0.5,0.2432432432432432,0.2,10.909090909090908,5,0,0.11982670483117397,False,
 22,circles,mathematics,13,0.5,0.2328767123287671,0.0,10.416666666666666,5,0,0.10392783627773766,False,
@@ -114,7 +114,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 25,3d geometry,mathematics,13,0.3,0.2345757134721255,0.2,7.166666666666667,17,1,0.024038016753763713,False,
 25,3d geometry,mathematics,14,0.6,0.6196405829913684,0.4,7.923076923076923,3,0,0.08037758246099325,False,
 25,3d geometry,mathematics,15,0.3,0.3427605036880068,0.2,7.571428571428571,5,0,0.1058586868251159,False,
-25,3d geometry,mathematics,16,0.3,0.2520116563990384,0.2,7.4,5,1,0.07419161443436473,False,
+25,3d geometry,mathematics,16,0.3,0.2520116563990384,0.2,7.4,5,1,0.07419161443436467,False,
 25,3d geometry,mathematics,17,0.6,0.638484945278483,0.4,7.25,4,0,0.07719466642197176,False,
 26,waves,physics,1,0.3,0.3,,,10,0,0.06375399607860677,False,
 26,waves,physics,2,0.3,0.2432432432432432,0.0,10.0,5,1,0.0707868457970815,False,
@@ -144,7 +144,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 29,3d geometry,mathematics,6,0.3,0.2518092410465763,0.2,6.8,26,1,0.026064046062081236,False,
 29,3d geometry,mathematics,7,0.6,0.6382721033508277,0.4,10.0,7,0,0.10289198320752774,False,
 29,3d geometry,mathematics,8,0.3,0.3523671846765451,0.4,9.571428571428571,4,0,0.10215522975607333,False,
-29,3d geometry,mathematics,9,0.3,0.2541103017689907,0.2,8.875,3,0,0.11513761785515253,False,
+29,3d geometry,mathematics,9,0.3,0.2541103017689907,0.2,8.875,3,0,0.11513761785515247,False,
 29,3d geometry,mathematics,10,0.3,0.2347603288139212,0.2,8.222222222222221,4,1,0.07679212431193083,False,
 29,anatomy of flowering plants,biology,11,0.5,0.3,0.4,7.8,4,1,0.0794842163162322,False,
 29,anatomy of flowering plants,biology,12,0.5,0.6853932584269663,0.4,7.454545454545454,9,0,0.07733521068667054,False,
@@ -168,7 +168,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 29,sets and relations,mathematics,30,0.5,0.2311212814645309,0.2,14.310344827586206,30,0,0.09253725636243693,False,
 29,sets and relations,mathematics,31,0.5,0.230827928271652,0.2,14.833333333333334,30,0,0.08940821388472353,False,
 29,sets and relations,mathematics,32,0.5,0.230779014308426,0.0,15.32258064516129,30,0,0.08714987972401639,False,
-29,sets and relations,mathematics,33,0.5,0.2307708613763792,0.0,15.78125,30,0,0.08705134683201854,False,
+29,sets and relations,mathematics,33,0.5,0.2307708613763792,0.0,15.78125,30,0,0.08705134683201848,False,
 29,trigonometry,mathematics,34,0.3,0.3,0.0,16.21212121212121,30,0,0.06147981197857594,False,
 29,trigonometry,mathematics,35,0.3,0.2432432432432432,0.0,16.61764705882353,30,0,0.09050933504862158,False,
 29,trigonometry,mathematics,36,0.3,0.2328767123287671,0.0,17.0,30,0,0.09856941133372377,False,
@@ -243,7 +243,7 @@ student_id,topic,subject,attempt_number,difficulty,current_mastery,recent_accura
 31,quadratic equations,mathematics,2,0.3,0.3,1.0,30.0,30,1,0.0006474120113204584,False,
 31,quadratic equations,math,3,0.4,0.6853932584269663,1.0,30.0,10,1,-0.04780721331750415,True,much faster than usual for this student
 31,quadratic equations,mathematics,4,0.9,0.9095315024232634,1.0,23.33333333333333,30,0,-0.06739918088944907,True,incorrect despite high current mastery
-32,differential equations,mathematics,1,0.5,0.3,,,30,0,0.0023523679826841226,False,
+32,differential equations,mathematics,1,0.5,0.3,,,30,0,0.0023523679826840116,False,
 32,differential equations,mathematics,2,0.5,0.2432432432432432,0.0,30.0,30,0,0.11623142358826366,False,
 32,differential equations,mathematics,3,0.5,0.2328767123287671,0.0,30.0,30,0,0.12516702802157648,False,
 32,differential equations,mathematics,4,0.5,0.2311212814645309,0.0,30.0,30,0,0.12991815030142256,False,
