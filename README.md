@@ -57,6 +57,6 @@ See [`analytics/README.md`](analytics/README.md) for the full pipeline, the hone
 
 ## Author
 
-**Shreejita Saha**  
+**Shreejita Saha**   
 B.Tech CSE (Data Science) — VIT Chennai  
 [LinkedIn](https://www.linkedin.com/in/shreejita-saha-19053a315) • [GitHub](https://github.com/shreejita245)
