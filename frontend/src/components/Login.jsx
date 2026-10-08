@@ -28,13 +28,13 @@ export default function Login({ onLogin }) {
           body: JSON.stringify({ name, email })
         })
         const student = await res.json()
-        onLogin({ ...student, authUser: data.user })
+        onLogin(student, data.user)
       } else {
         const { data, error } = await supabase.auth.signInWithPassword({ email, password })
         if (error) throw error
         const res = await fetch(`${API}/students/email/${email}`)
         const student = await res.json()
-        onLogin({ ...student, authUser: data.user })
+        onLogin(student, data.user)
       }
     } catch (e) {
       setError(e.message || "Something went wrong")

@@ -12,6 +12,7 @@ import "./App.css"
 
 export default function App() {
   const [student, setStudent] = useState(null)
+  const [isFaculty, setIsFaculty] = useState(false)
   const [testSettings, setTestSettings] = useState(null)
   const [scoreData, setScoreData] = useState(null)
   const [page, setPage] = useState("login")
@@ -20,6 +21,12 @@ export default function App() {
   useEffect(() => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       if (session) {
+        // Check Supabase user metadata for faculty role.
+        // Set this once per faculty user in the Supabase dashboard:
+        //   Auth → Users → [user] → Edit → user_metadata → { "role": "faculty" }
+        const role = session.user?.user_metadata?.role
+        setIsFaculty(role === "faculty")
+
         fetch(`${API}/students/email/${session.user.email}`)
           .then(r => r.json())
           .then(student => {
@@ -32,9 +39,18 @@ export default function App() {
     })
   }, [])
 
+  async function handleLogin(studentData, authUser) {
+    // Read faculty flag from the auth user returned at login time
+    const role = authUser?.user_metadata?.role
+    setIsFaculty(role === "faculty")
+    setStudent(studentData)
+    setPage("config")
+  }
+
   async function handleLogout() {
     await supabase.auth.signOut()
     setStudent(null)
+    setIsFaculty(false)
     setPage("login")
     setShowProfile(false)
   }
@@ -66,12 +82,15 @@ export default function App() {
             >
               📂 Test History
             </button>
-            <button
-              className={`topbar-nav-btn ${page === "faculty" ? "topbar-nav-active" : ""}`}
-              onClick={() => setPage("faculty")}
-            >
-              🧭 Insights
-            </button>
+            {/* Only faculty see the Insights tab */}
+            {isFaculty && (
+              <button
+                className={`topbar-nav-btn ${page === "faculty" ? "topbar-nav-active" : ""}`}
+                onClick={() => setPage("faculty")}
+              >
+                🧭 Insights
+              </button>
+            )}
           </div>
 
           {/* Profile */}
@@ -88,6 +107,15 @@ export default function App() {
               <div className="topbar-dropdown">
                 <div className="topbar-dropdown-name">{student.name}</div>
                 <div className="topbar-dropdown-email">{student.email}</div>
+                {isFaculty && (
+                  <div style={{
+                    fontSize: 11, fontWeight: 700, color: "#6366f1",
+                    background: "#ede9fe", borderRadius: 6,
+                    padding: "2px 8px", marginTop: 4, display: "inline-block"
+                  }}>
+                    Faculty
+                  </div>
+                )}
                 <hr style={{ border: "none", borderTop: "1px solid #f3f4f6", margin: "10px 0" }} />
                 <button
                   onClick={() => { setPage("history"); setShowProfile(false) }}
@@ -95,12 +123,14 @@ export default function App() {
                 >
                   📂 Test History
                 </button>
-                <button
-                  onClick={() => { setPage("faculty"); setShowProfile(false) }}
-                  className="topbar-dropdown-item"
-                >
-                  🧭 Insights
-                </button>
+                {isFaculty && (
+                  <button
+                    onClick={() => { setPage("faculty"); setShowProfile(false) }}
+                    className="topbar-dropdown-item"
+                  >
+                    🧭 Insights
+                  </button>
+                )}
                 <button
                   onClick={() => { setPage("config"); setShowProfile(false) }}
                   className="topbar-dropdown-item"
@@ -121,7 +151,7 @@ export default function App() {
 
       {/* Pages */}
       {page === "login" && (
-        <Login onLogin={(s) => { setStudent(s); setPage("config") }} />
+        <Login onLogin={(s, authUser) => handleLogin(s, authUser)} />
       )}
 
       {page === "config" && (
@@ -167,8 +197,33 @@ export default function App() {
         />
       )}
 
+      {/* Faculty-only page: render an access-denied screen for non-faculty */}
       {page === "faculty" && (
-        <FacultyDashboard onBack={() => setPage("config")} />
+        isFaculty
+          ? <FacultyDashboard onBack={() => setPage("config")} />
+          : (
+            <div style={{
+              display: "flex", flexDirection: "column", alignItems: "center",
+              justifyContent: "center", minHeight: "60vh", gap: 12,
+              color: "#6b7280", textAlign: "center", padding: 40,
+            }}>
+              <div style={{ fontSize: 48 }}>🔒</div>
+              <div style={{ fontSize: 20, fontWeight: 700, color: "#374151" }}>
+                Faculty access only
+              </div>
+              <div style={{ fontSize: 14, maxWidth: 360 }}>
+                The Insights tab is restricted to faculty accounts.
+                Ask your administrator to grant faculty access.
+              </div>
+              <button
+                className="score-btn-history"
+                onClick={() => setPage("config")}
+                style={{ marginTop: 8 }}
+              >
+                ← Back to Home
+              </button>
+            </div>
+          )
       )}
     </div>
   )
