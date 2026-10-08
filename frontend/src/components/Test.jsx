@@ -163,6 +163,18 @@ export default function Test({ student, settings, onFinish }) {
         question_ids: questionIdsRef.current
       }, { timeout: 6000 }).catch(e => console.error("Session save:", e))
 
+      // Update BKT mastery scores in background
+      const masteryPayload = {
+        student_id: student.id,
+        questions: questionsData
+          .filter(q => q.topic && q.selected_answer !== null)
+          .map(q => ({ topic: q.topic, correct: Boolean(q.is_correct) }))
+      }
+      if (masteryPayload.questions.length > 0) {
+        axios.post(`${API}/mastery/update`, masteryPayload, { timeout: 6000 })
+          .catch(e => console.error("Mastery update:", e))
+      }
+
       return { score: finalScore, correct, wrong, unattempted, maxScore, questionsData, examName: settings.examName }
     }
 

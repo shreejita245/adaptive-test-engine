@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database import engine, Base
-from app.routers import questions, students, attempts, analytics, sessions, insights
+from app.routers import questions, students, attempts, analytics, sessions, insights, mastery
 
 Base.metadata.create_all(bind=engine)
 
@@ -27,6 +27,7 @@ app.include_router(attempts.router)
 app.include_router(analytics.router)
 app.include_router(sessions.router)
 app.include_router(insights.router)
+app.include_router(mastery.router)
 
 @app.get("/")
 def root():

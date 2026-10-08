@@ -6,11 +6,15 @@ import { API } from "../api"
 export default function Dashboard({ student, scoreData, onRetry, onViewExplanations, onViewHistory }) {
   const [data, setData] = useState(null)
   const [progress, setProgress] = useState([])
+  const [mastery, setMastery] = useState([])
   const [tab, setTab] = useState("score")
 
   useEffect(() => {
     axios.get(`${API}/analytics/${student.id}`).then(r => setData(r.data))
     axios.get(`${API}/analytics/progress/${student.id}`).then(r => setProgress(r.data))
+    setTimeout(() => {
+      axios.get(`${API}/mastery/${student.id}`).then(r => setMastery(r.data)).catch(() => {})
+    }, 1500)
   }, [])
 
   const { score, correct, wrong, unattempted, maxScore, questionsData } = scoreData || {}
@@ -45,7 +49,8 @@ export default function Dashboard({ student, scoreData, onRetry, onViewExplanati
         {[
           { key: "score", label: "📊 Score" },
           { key: "overview", label: "📈 Analytics" },
-          { key: "progress", label: "📉 Progress" }
+          { key: "progress", label: "📉 Progress" },
+          { key: "mastery", label: "🧠 Mastery" }
         ].map(t => (
           <button
             key={t.key}
@@ -199,6 +204,58 @@ export default function Dashboard({ student, scoreData, onRetry, onViewExplanati
                 </div>
               ))}
             </div>
+
+            <div style={{ marginTop: 20, display: "flex", gap: 10 }}>
+              <button className="score-btn-history" onClick={onViewHistory}>📂 Test History</button>
+              <button className="score-btn-retry" onClick={onRetry}>🔄 Practice Again</button>
+            </div>
+          </>
+        )}
+
+        {/* ── MASTERY TAB ── */}
+        {tab === "mastery" && (
+          <>
+            <h3 style={{ margin: "0 0 6px", color: "#1e293b", fontSize: 16, fontWeight: 700 }}>
+              🧠 Topic Mastery (BKT Model)
+            </h3>
+            <p style={{ margin: "0 0 20px", color: "#6b7280", fontSize: 13 }}>
+              Bayesian probability of mastery per topic — updated after every test.
+            </p>
+
+            {mastery.length === 0 ? (
+              <div style={{ textAlign: "center", padding: "40px 0", color: "#9ca3af", fontSize: 14 }}>
+                No mastery data yet. Complete more tests to see your topic mastery!
+              </div>
+            ) : (
+              <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+                {mastery.map(m => {
+                  const pct = Math.round(m.mastery * 100)
+                  const color = pct >= 70 ? "#22c55e" : pct >= 45 ? "#f97316" : "#ef4444"
+                  const label = pct >= 70 ? "Strong" : pct >= 45 ? "Developing" : "Weak"
+                  return (
+                    <div key={m.topic} style={{ background: "#f8fafc", borderRadius: 10, padding: "12px 16px", border: "1px solid #e2e8f0" }}>
+                      <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
+                        <span style={{ fontWeight: 600, fontSize: 14, color: "#1e293b" }}>{m.topic}</span>
+                        <span style={{ fontSize: 13, color, fontWeight: 700 }}>
+                          {pct}% · {label}
+                        </span>
+                      </div>
+                      <div style={{ background: "#e2e8f0", borderRadius: 99, height: 8, overflow: "hidden" }}>
+                        <div style={{
+                          width: `${pct}%`, height: "100%",
+                          background: color,
+                          borderRadius: 99,
+                          transition: "width 0.6s ease"
+                        }} />
+                      </div>
+                      <div style={{ fontSize: 11, color: "#9ca3af", marginTop: 5 }}>
+                        {m.attempts} question{m.attempts !== 1 ? "s" : ""} attempted
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            )}
 
             <div style={{ marginTop: 20, display: "flex", gap: 10 }}>
               <button className="score-btn-history" onClick={onViewHistory}>📂 Test History</button>
